@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layoutDirection="ltr"
+    android:background="#1100ff00"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Sample Footer"
+        android:textColor="@color/dialogplus_black_overlay"
+        android:textSize="12dp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_footer_close_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CLOSE"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="16dp"
+        android:background="@drawable/dialogplus_selector_bg_button"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_footer_confirm_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CONFIRM"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="16dp"
+        android:background="@drawable/dialogplus_selector_bg_button"/>
+</LinearLayout>

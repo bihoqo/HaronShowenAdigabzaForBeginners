@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+    android:background="@drawable/background_dialogplus_flowers_header_bg">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="16dp"
+        android:text="@string/dialog_exit_lesson_title"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size2"
+        android:textColor="@color/black"/>
+</LinearLayout>

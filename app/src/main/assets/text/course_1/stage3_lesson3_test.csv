@@ -1,0 +1,14 @@
+#Type|ExerciseNumber|QuestionNumber|QuestionSubText|QuestionSubTextEnglish|QuestionSubTextArabic|QuestionSubTextTurkish|QuestionAudio|QuestionAudioFile|QuestionImage|RightAnswer|Answer1|Answer2|Answer3|Answer4|AnswerAudio1|AnswerAudio2|AnswerAudio3|AnswerAudio4|Answer1English|Answer2English|Answer3English|Answer1Arabic|Answer2Arabiс|Answer3Arabic|Answer1Turkish|Answer2Turkish|Answer3Turkish
+
+# next one is a sample for type #8 (matching pairs)
+#8|1|1||Tap the matching pairs|Tap the matching pairs|Tap the matching pairs||||23451|
+## next one is commented out temporarily because of the above sample
+
+#2|1|1|||||Аслъан|0001|0001|2|Санэ|Аслъан|Мышъэ|lэ|0008|0001|0003|0006|||||||||
+9|1|2|||||А|0002||3|М|С|А|ы|||||||||||||
+#2|1|3|||||Мышъэ|0003|0002|4|lэ|Санэ|Аслъан|Мышъэ|0006|0008|0001|0003|||||||||
+9|1|4|||||М|0004||2|А|М|l|С|||||||||||||
+9|1|5|||||Ма|0005||3|С|Са|Ма|lэ|||||||||||||
+#2|1|6|||||lэ|0006|0003|2|Мышъэ|lэ|Санэ|Аслъан|0003|0006|0008|0001|||||||||
+9|1|7|||||Мэ|0007||4|Ма|С|Са|Мэ|||||||||||||
+#2|1|8|||||Санэ|0008|0004|4|Аслъан|Мышъэ|lэ|Санэ|0001|0003|0006|0008|||||||||

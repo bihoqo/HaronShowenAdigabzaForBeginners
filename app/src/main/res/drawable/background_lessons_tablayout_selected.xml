@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#66b32f"/>
+    <corners android:radius="6dp"/>
+<!--    using a thick white stroke to create a gap between tabs - this is a workaround-->
+    <stroke
+        android:color="@color/white"
+        android:width="5dp"/>
+</shape>

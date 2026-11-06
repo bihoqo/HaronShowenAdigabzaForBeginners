@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+    android:background="@color/dialogplus_background_alphabet">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_alphabet_content_buttonCyrillic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="60dp"
+        android:layout_marginBottom="16dp"
+        android:textAllCaps="false"
+        android:text="@string/alphabet_cyrillic"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size"
+        android:textColor="@color/black"
+        android:background="@drawable/background_option_dialogplus_alphabet"
+        android:outlineProvider="background"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_alphabet_content_buttonLatin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="60dp"
+        android:layout_marginBottom="16dp"
+        android:textAllCaps="false"
+        android:text="@string/alphabet_latin"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size"
+        android:textColor="@color/black"
+        android:background="@drawable/background_option_dialogplus_alphabet"
+        android:outlineProvider="background"/>
+</LinearLayout>

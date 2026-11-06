@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragment_c_text_size_options">12dp</dimen>
+    <dimen name="fragment_b_text_size_options">16dp</dimen>
+    <dimen name="text_size_options">16dp</dimen>
+    <dimen name="text_size_select">16dp</dimen>
+
+<!-- Values without units, i.e. not dp, sp, px, in (inche), mm (millimeter), nor pt, must be defined in the following way -->
+    <item name="main_min_ems1" type="dimen" format="integer">4</item>
+
+    <dimen name="main_lesson_title_padding_start">15dp</dimen>
+    <dimen name="main_lesson_title_padding_top">3dp</dimen>
+    <dimen name="main_lesson_subtitle_padding_start">15dp</dimen>
+    <dimen name="lock_icon_margin_top">7dp</dimen>
+    <dimen name="lock_icon_height">15dp</dimen>
+    <dimen name="lock_icon_width">10.5dp</dimen>
+    <dimen name="lock_icon_margin_start">15dp</dimen>
+
+    <dimen name="main_lesson_number_padding_top">15dp</dimen>
+    <dimen name="main_lesson_number_padding_bottom">7.5dp</dimen>
+    <dimen name="main_lesson_number_padding_start">5dp</dimen>
+    <dimen name="text_size_main_lesson_title">14dp</dimen>
+    <dimen name="text_size_main_lesson_subtitle">8dp</dimen>
+    <dimen name="text_size_main_lesson_number">50dp</dimen>
+    <dimen name="text_size_main_num_stars">16dp</dimen>
+    <dimen name="margin_start_main_num_stars">3dp</dimen>
+
+    <dimen name="text_size_main_stage_tab">12dp</dimen>
+    <dimen name="min_width_main_stage_tab">80dp</dimen>
+
+    <dimen name="view_pager_main_margin_horizontal">3dp</dimen>
+    <dimen name="view_pager_main_margin_vertical">6dp</dimen>
+
+    <dimen name="lesson_text_size_question">15dp</dimen>
+    <dimen name="indicator_frame_width">2px</dimen>
+    <dimen name="lesson_seekbar_height">10dp</dimen>
+    <dimen name="lesson_seekbar_half_height">5dp</dimen>
+    <dimen name="lesson_seekbar_flower_size">15dp</dimen>
+    <dimen name="lesson_seekbar_flowers_text_size">9dp</dimen>
+    <dimen name="lesson_option_height">150dp</dimen>
+    <dimen name="lesson_question_size">50dp</dimen>
+    <dimen name="lesson_select_height">30dp</dimen>
+
+    <dimen name="main_toolbar_height">17dp</dimen>
+    <dimen name="text_size_main_title">12dp</dimen>
+    <dimen name="text_size_main_subtitle">12dp</dimen>
+
+    <dimen name="stage_panel_height">100dp</dimen>
+    <dimen name="stage_panel_margin_vertical">3dp</dimen>
+    <dimen name="stage_panel_margin_horizontal">3dp</dimen>
+
+<!--    exercise indicators-->
+    <dimen name="indicators_margin_right">18dp</dimen>
+    <dimen name="indicators_margin_bottom">10dp</dimen>
+    <dimen name="indicator_margin_horizontal">0.7dp</dimen>
+    <dimen name="indicator_width">13dp</dimen>
+    <dimen name="indicator_height">11dp</dimen>
+
+    <dimen name="star_image_size">16dp</dimen>
+    <dimen name="star_image_margin_bottom">6dp</dimen>
+
+    <dimen name="activity_select_language_button_height">60dp</dimen>
+    <dimen name="activity_select_language_button_height2">35dp</dimen>
+    <dimen name="language_line_width1">3px</dimen>
+    <dimen name="language_radius1">17.5dp</dimen>
+
+    <dimen name="activity_select_language_margin">10dp</dimen>
+    <dimen name="activity_select_language_text_size_title">21dp</dimen>
+    <dimen name="activity_select_language_text_size_button">24dp</dimen>
+
+    <dimen name="dialogplus_text_size">19dp</dimen>
+    <dimen name="dialogplus_text_size2">18dp</dimen>
+    <dimen name="dialogplus_text_size3">17dp</dimen>
+    <dimen name="dialogplus_text_size4">16dp</dimen>
+
+    <dimen name="dialogplus_text_size5">26dp</dimen>
+    <dimen name="dialogplus_text_size6">18dp</dimen>
+    <dimen name="dialogplus_image_size1">100dp</dimen>
+    <dimen name="dialogplus_total_height1">400dp</dimen>
+    <dimen name="dialogplus_total_height2">280dp</dimen>
+    <dimen name="dialogplus_total_height3">320dp</dimen>
+    <dimen name="dialogplus_total_height4">380dp</dimen>
+
+    <dimen name="frame_layout_lesson_fragment_margin1">80dp</dimen>
+
+    <dimen name="lesson_margin1">5dp</dimen>
+    <dimen name="lesson_margin2">5dp</dimen>
+    <dimen name="lesson_margin3">15dp</dimen>
+    <dimen name="lesson_margin4">10dp</dimen>
+    <dimen name="lesson_margin5">15dp</dimen>
+    <dimen name="lesson_margin6">7.5dp</dimen>
+
+    <dimen name="lesson_margin7">20dp</dimen>
+    <dimen name="lesson_margin8">10dp</dimen>
+    <dimen name="lesson_margin9">30dp</dimen>
+    <dimen name="lesson_margin10a">20dp</dimen>
+    <dimen name="lesson_margin10b">20dp</dimen>
+    <dimen name="lesson_margin10c">10dp</dimen>
+    <dimen name="lesson_margin11">26dp</dimen>
+
+    <dimen name="lesson_padding1">5dp</dimen>
+    <dimen name="lesson_padding2">3dp</dimen>
+    <dimen name="lesson_padding3">5dp</dimen>
+    <dimen name="lesson_text_size1">11dp</dimen>
+    <dimen name="lesson_image_size1">20dp</dimen>
+    <dimen name="lesson_line_width1">1px</dimen>
+    <dimen name="lesson_line_width2">1px</dimen>
+    <dimen name="lesson_radius1">10dp</dimen>
+
+    <dimen name="about_text_size1">20dp</dimen>
+    <dimen name="about_text_size2">12dp</dimen>
+    <dimen name="about_text_size3">15dp</dimen>
+    <dimen name="about_text_size4">10dp</dimen>
+
+    <dimen name="about_image_size1">70dp</dimen>
+    <dimen name="about_image_width2">90dp</dimen>
+    <dimen name="about_image_height2">72dp</dimen>
+
+    <dimen name="about_margin1a">13dp</dimen>
+    <dimen name="about_margin1b">13dp</dimen>
+    <dimen name="about_margin2">3dp</dimen>
+    <dimen name="about_margin3a">20dp</dimen>
+    <dimen name="about_margin3b">14dp</dimen>
+    <dimen name="about_margin4">26dp</dimen>
+    <dimen name="about_margin5">15dp</dimen>
+    <dimen name="about_margin6">20dp</dimen>
+</resources>

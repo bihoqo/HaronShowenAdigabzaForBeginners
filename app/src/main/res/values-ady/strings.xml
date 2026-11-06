@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_lesson_w_num">Lesson %d</string>
+    <string name="button_lesson">Lesson</string>
+    <string name="button_lesson_1">Lesson 1</string>
+    <string name="button_lesson_2">Lesson 2</string>
+    <string name="button_stage">Stage %d</string>
+    <string name="button_stage_1">Stage 1</string>
+    <string name="button_stage_2">Stage 2</string>
+    <string name="lesson_title_what_is_this">What is this?</string>
+    <string name="lesson_title_what_you_hear">Tap what you hear</string>
+    <string name="lesson_title_select_translation">Select the correct translation</string>
+    <string name="lesson_title_missing_word">Select the missing word</string>
+    <string name="lesson_title_missing_letter">Select the missing letter</string>
+    <string name="lesson_title_matching_pairs">Tap the matching pair</string>
+    <string name="button_select">Select</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_choose_language">E</string>
+    <string name="select_alphabet_title">Select the alphabet\nyou want to learn\nAdigabza in</string>
+    <string name="main_title">Adigabza</string>
+    <string name="alphabet_label_cyrillic">Cyrillic</string>
+    <string name="alphabet_label_latin">Latin</string>
+    <string name="alphabet_cyrillic">Cyrillic</string>
+    <string name="alphabet_latin">Latin</string>
+    <string name="select_language_title">Select the language\nyou want to learn\nAdigabza in</string>
+    <string name="dialog_flowers_title">You have &lt;font color="red"&gt;%1$d&lt;/font&gt; flowers</string>
+    <string name="dialog_flowers_title_one">You have &lt;font color="red"&gt;1&lt;/font&gt; flower</string>
+    <string name="dialog_flowers_content1">Do you want to collect more?</string>
+    <string name="dialog_flowers_content2">You can\'t collect any more flowers. Do you still want to do the exercise?</string>
+    <string name="dialog_exit_lesson_title">Are you sure you want to quit?</string>
+    <string name="dialog_exit_lesson_content">All progress in this exercise will be lost!</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+<!--    <string name="language_english">English</string>-->
+<!--    <string name="language_arabic">العربية</string>-->
+<!--    <string name="language_turkish">Türkçe</string>-->
+    <string name="next">Next</string>
+    <string name="continue_selecting">Continue</string>
+    <string name="answer">"Answer: "</string>
+    <string name="lesson_correct_answer">"Correct!"</string>
+    <string name="lesson_wrong_answer">"Maybe next time\nThe answer was: "</string>
+    <string name="ok">OK</string>
+    <string name="good_job1">Good Job!</string>
+    <string name="good_job2">You have completed the exercise successfully!</string>
+    <string name="good_job3">You have completed the lesson successfully!</string>
+
+    <!--    menu-->
+    <string name="menu_about">About</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_alphabet">Alphabet</string>
+</resources>

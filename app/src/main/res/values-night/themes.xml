@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AdigabzaForBeginners" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Interim: flag only works on Android 15 devices; disabled on Android 16 at targetSdk 36. BaseActivity pads content below system bars instead. Flag removed at API 37. -->
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" tools:targetApi="v35">true</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+<!--    <style name="SplashScreenTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">-->
+<!--        <item name="android:statusBarColor">#8FBF24</item>-->
+<!--        <item name="android:windowBackground">@drawable/splash_screen</item>-->
+<!--    </style>-->
+    <style name="SplashScreenTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_mi10_w_flag</item>
+        <!-- Interim: flag only works on Android 15 devices; disabled on Android 16 at targetSdk 36. BaseActivity pads content below system bars instead. Flag removed at API 37. -->
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" tools:targetApi="v35">true</item>
+    </style>
+
+    <style name="LessonsTabLayoutStyle" parent="Base.Widget.Design.TabLayout">
+        <item name="android:textSize">@dimen/text_size_main_stage_tab</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@font/opensans_regular</item>
+    </style>
+
+</resources>

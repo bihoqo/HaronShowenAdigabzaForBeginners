@@ -1,0 +1,100 @@
+#Type|ExerciseNumber|QuestionNumber|QuestionSubText|QuestionSubTextEnglish|QuestionSubTextArabic|QuestionSubTextTurkish|QuestionAudio|QuestionAudioFile|QuestionImage|RightAnswer1|RightAnswer2|RightAnswer3|RightAnswer4|RightAnswer5|Answer1|Answer2|Answer3|Answer4|Answer5|AnswerAudio1|AnswerAudio2|AnswerAudio3|AnswerAudio4|AnswerAudio5|AnswerEnglish1|AnswerEnglish2|AnswerEnglish3|AnswerEnglish4|AnswerEnglish5|AnswerArabic1|AnswerArabic2|AnswerArabic3|AnswerArabic4|AnswerArabic5|AnswerTurkish1|AnswerTurkish2|AnswerTurkish3|AnswerTurkish4|AnswerTurkish5
+
+# áçćéǵğḣıḱĺöṕşśšṫüź
+# ÁÇĆÉǴĞḢİḰĹÖṔŞŚŠṪÜŹ
+
+# Teḱuo -> Teḱuwe
+# Tyewe -> Téwe
+# Yeuate -> Yeoáte
+
+# eId, stage, lesson: 1, 1, 2
+1|1|1|||||Утет|0058||2|0|0|0|0|Teḱuwe|Wıtét|Téwe|Wate|||||||||||||||||||||
+6|1|2|Wıtét|||||||1|0|0|0|0|||||||||||You stand on|Hammer|We stand by|||تقف على|مطرقة|نحن نقف بجانب|||Üstünde duruyorsun.|Çekiç|Beklemedeyiz||
+5|1|3||You stand on|تقف على|Üstünde duruyorsun.||||3|0|0|0|0|Tat|Tatée|Wıtét||||||||||||||||||||||
+1|1|4|||||Уатэ|0059||1|0|0|0|0|Wate|Teḱuwe|Tat|Wıtét|||||||||||||||||||||
+6|1|5|Wate|||||||3|0|0|0|0|||||||||||They say|You have|Hammer|||يقولون|لديك|مطرقة|||Söylüyorlar|Senin var|Çekiç||
+5|1|6||Hammer|مطرقة|Çekiç||||1|0|0|0|0|Wate|Wi'|Ate||||||||||||||||||||||
+1|1|7|||||Тео|0060||2|0|0|0|0|Tawe|Téwe|Teḱuwe|Tiyewe|||||||||||||||||||||
+6|1|8|Téwe|||||||3|0|0|0|0|||||||||||Pile|Father|Knocking on|||كومة|أب|يطرق على|||İstif \ Yığın|Baba|Çalıyor||
+5|1|9||Knocking on|يطرق على|Çalıyor||||1|0|0|0|0|Téwe|Ao|Tét||||||||||||||||||||||
+1|1|10|||||Тэкуо|0061||1|0|0|0|0|Teḱuwe|Teḱu|Tat|Teḱo|||||||||||||||||||||
+6|1|11|Teḱuwe|||||||1|0|0|0|0|||||||||||We shout|Ours|You have|||نصرخ|لنا|لديك|||Bağırıyoruz|Bizim|Senin var||
+5|1|12||We shout|نصرخ|Bağırıyoruz||||1|0|0|0|0|Teḱuwe|Weḱuwe|Ti'||||||||||||||||||||||
+2|1|13|||||lанэ|0062|0012|4|0|0|0|0|Şı|Ḱośı|Tığuj|Ane||0072|0047|0052|0062||||||||||||||||
+1|1|14|||||l|0063||2|0|0|0|0|E|l|A|Ye|||||||||||||||||||||
+1|1|15|||||Уиl|0064||4|0|0|0|0|Ti'|Ate|Tal|Wi'|||||||||||||||||||||
+6|1|16|Wi'|||||||1|0|0|0|0|||||||||||You have|Tells|Hammer|||لديك|يحكي|مطرقة|||Senin var|Anlatıyor|Çekiç||
+5|1|17||You have|لديك|Senin var||||3|0|0|0|0|Ao|Ti'|Wi'||||||||||||||||||||||
+1|1|18|||||Тиl|0065||2|0|0|0|0|Wi'|Ti'|Te'|Té'|||||||||||||||||||||
+6|1|19|Ti'|||||||2|0|0|0|0|||||||||||Hammer|We have|They say|||مطرقة|لدينا|يقولون|||Çekiç|Bizim var|Söylüyorlar||
+5|1|20||We have|لدينا|Bizim var||||1|0|0|0|0|Ti'|Wi'|Teti||||||||||||||||||||||
+1|2|21|||||Аlо|0066||1|0|0|0|0|Ao|Au|Wi'|Ti'|||||||||||||||||||||
+6|2|22|Ao|||||||3|0|0|0|0|||||||||||Hammer|You have|They say|||مطرقة|لديك|يقولون|||Çekiç|Senin var|Söylüyorlar||
+5|2|23||They say|يقولون|Söylüyorlar||||3|0|0|0|0|Wi'|Tat|Ao||||||||||||||||||||||
+1|2|24|||||lатэ|0067||3|0|0|0|0|Ete|Ao|Ate|ıte|||||||||||||||||||||
+6|2|25|Ate|||||||2|0|0|0|0|||||||||||Stands on|Pile|Father|||وجدت على|كومة|أب|||Üzerinde duruyor|İstif \ Yığın|Baba||
+5|2|26||Pile|كومة|İstif \ Yığın||||2|0|0|0|0|Teti|Ate|Wate||||||||||||||||||||||
+1|2|27|||||Атеlэ|0068||3|0|0|0|0|Atie|Ate|Atée|Até'|||||||||||||||||||||
+6|2|28|Atée|||||||2|0|0|0|0|||||||||||You stand on|Touches them from above|Stands on|||تقف على|يلمسها من فوق|وجدت على|||Üstünde duruyorsun.|Onlara yukarıdan dokunur|Üzerinde duruyor||
+5|2|29||Touches them from above|يلمسها من فوق|Onlara yukarıdan dokunur||||2|0|0|0|0|Tatée|Atée|Yeoáte||||||||||||||||||||||
+1|2|30|||||Тыlут|0069||4|0|0|0|0|Tıot|Ṫot|Ao|Tıut|||||||||||||||||||||
+6|2|31|Tıut|||||||3|0|0|0|0|||||||||||Hammer|We shout|We stand by|||مطرقة|نصرخ|نحن نقف بجانب|||Çekiç|Bağırıyoruz|Beklemedeyiz||
+5|2|32||We stand by|نحن نقف بجانب|Beklemedeyiz||||2|0|0|0|0|Tat|Tıut|Yeoáte||||||||||||||||||||||
+1|2|33|||||Татеlэ|0070||2|0|0|0|0|Yeoáte|Tatée|Ttée|Tée|||||||||||||||||||||
+6|2|34|Tatée|||||||1|0|0|0|0|||||||||||We touch them from above|They say|You stand on|||نلمسها من فوق|يقولون|تقف على|||Onlara yukarıdan dokunuyoruz|Söylüyorlar|Üstünde duruyorsun.||
+5|2|35||We touch them from above|نلمسها من فوق|Onlara yukarıdan dokunuyoruz||||3|0|0|0|0|Yeoáte|Atée|Tatée||||||||||||||||||||||
+1|2|36|||||Еlуатэ|0071||1|0|0|0|0|Yeoáte|Yiwet|Yioáte|Tée|||||||||||||||||||||
+6|2|37|Yeoáte|||||||2|0|0|0|0|||||||||||Ours|Tells|Pile|||لنا|يحكي|كومة|||Bizim|Anlatıyor|İstif \ Yığın||
+5|2|38||Tells|يحكي|Anlatıyor||||2|0|0|0|0|Tatée|Yeoáte|Ao||||||||||||||||||||||
+2|3|39|||||Шы|0072|0011|4|0|0|0|0|Yinıj|Tığuj|Ḱośı|Şı||0015|0052|0047|0072||||||||||||||||
+1|3|40|||||Ш|0072||1|0|0|0|0|Ş|M|T|Ḱ|||||||||||||||||||||
+6|3|41|Şı|||||||3|0|0|0|0|||||||||||Fat|Knight|Horse / Brother|||دَسَم|فارس|حصان / أَخ|||Şişman|Şövalye / Atlı|At / erkek kardeş||
+5|3|42||Horse / Brother|حصان / أَخ|At / erkek kardeş||||2|0|0|0|0|Şe|Şı|Şı'||||||||||||||||||||||
+1|3|43|||||Шэ|0073||2|0|0|0|0|Şé|Şe|Ḱe|Şı|||||||||||||||||||||
+6|3|44|Şe|||||||2|0|0|0|0|||||||||||Horse / Brother|Fat|Lawyer|||حصان / أَخ|دَسَم|محامي|||At / erkek kardeş|Şişman|Avukat||
+5|3|45||Fat|دَسَم|Şişman||||1|0|0|0|0|Şe|Şao|Şı||||||||||||||||||||||
+1|3|46|||||Шыу|0074||4|0|0|0|0|Şéw|Şu'|Şow|Şıw|||||||||||||||||||||
+6|3|47|Şıw|||||||2|0|0|0|0|||||||||||A barn for horses|Knight|Honeycomb|||حظيرة خيل|فارس|قرص العسل|||Atlar için bir ahır|Şövalye / Atlı|Bal peteği||
+5|3|48||Knight|فارس|Şövalye / Atlı||||2|0|0|0|0|Şı|Şıw|Şı'||||||||||||||||||||||
+1|3|49|||||Шао|0075||1|0|0|0|0|Şawe|Şaw|Şewe|Şıw|||||||||||||||||||||
+6|3|50|Şawe|||||||1|0|0|0|0|||||||||||Carriage driver|Horse stable|Fat|||ساىق عربة خيل|اسطبل حصان|دَسَم|||Araba sürücüsü|At ahırı|Şişman||
+5|3|51||Carriage driver|ساىق عربة خيل|Araba sürücüsü||||1|0|0|0|0|Şawe|Şe|Şaḱo||||||||||||||||||||||
+1|3|52|||||Шэсы|0076||1|0|0|0|0|Şesı|Şası|Şese|Saşı|||||||||||||||||||||
+6|3|53|Şesı|||||||2|0|0|0|0|||||||||||Example|Lawyer|Honeycomb|||مثال|محامي|قرص العسل|||Örnek|Avukat|Bal peteği||
+5|3|54||Lawyer|محامي|Avukat||||3|0|0|0|0|Şe|Şıse|Şesı||||||||||||||||||||||
+1|3|55|||||Шако|0077||2|0|0|0|0|Şaso|Şaḱo|Şaḱu|Şewe|||||||||||||||||||||
+6|3|56|Şaḱo|||||||1|0|0|0|0|||||||||||Honeycomb|Horse stable|Horse / Brother|||قرص العسل|اسطبل حصان|حصان / أَخ|||Bal peteği|At ahırı|At / erkek kardeş||
+5|3|57||Honeycomb|قرص العسل|Bal peteği||||2|0|0|0|0|Şao|Şaḱo|Şawe||||||||||||||||||||||
+1|4|58|||||Шаlо|0078||3|0|0|0|0|Şawe|Saşı|Şao|Şaḱo|||||||||||||||||||||
+6|4|59|Şao|||||||3|0|0|0|0|||||||||||Horse / Brother|Carriage driver|A barn for horses|||حصان / أَخ|ساىق عربة خيل|حظيرة خيل|||At / erkek kardeş|Araba sürücüsü|Atlar için bir ahır||
+5|4|60||A barn for horses|حظيرة خيل|Atlar için bir ahır||||3|0|0|0|0|Şaḱo|Şesı|Şao||||||||||||||||||||||
+2|4|61|||||Щэ|0051|0014|2|0|0|0|0|Sıd|Şe|Sane|Mışe||0013|0051|0008|0003||||||||||||||||
+1|4|62|||||Щ|0079||3|0|0|0|0|S|Ḱ|Ş|M|||||||||||||||||||||
+1|4|63|||||Щы|0079||4|0|0|0|0|Şé|Şa|Şi|Şı|||||||||||||||||||||
+6|4|64|Şı|||||||3|0|0|0|0|||||||||||Sitting|Sell|Three|||جالس|يبيع|ثلاث|||Oturuyor|Satıyor|Üç||
+5|4|65||Three|ثلاث|Üç||||3|0|0|0|0|Şı'|Yeşı|Şı||||||||||||||||||||||
+1|4|66|||||Щысэ|0080||1|0|0|0|0|Şıse|Şışe|Şaḱu|Şate|||||||||||||||||||||
+6|4|67|Şıse|||||||3|0|0|0|0|||||||||||Knight|Lawyer|Example|||فارس|محامي|مثال|||Şövalye / Atlı|Avukat|Örnek||
+5|4|68||Example|مثال|Örnek||||1|0|0|0|0|Şıse|Şesı|Şı'||||||||||||||||||||||
+1|4|69|||||Шэщ|0081||3|0|0|0|0|Şıt|Şıse|Şeş|Şate|||||||||||||||||||||
+6|4|70|Şeş|||||||1|0|0|0|0|||||||||||Horse stable|Example|Carriage driver|||اسطبل حصان|مثال|ساىق عربة خيل|||At ahırı|Örnek|Araba sürücüsü||
+5|4|71||Horse stable|اسطبل حصان|At ahırı||||3|0|0|0|0|Şaḱo|Şesı|Şeş||||||||||||||||||||||
+1|4|72|||||Щатэ|0082||4|0|0|0|0|Şeş|Şaḱu|Tat|Şate|||||||||||||||||||||
+6|4|73|Şate|||||||1|0|0|0|0|||||||||||Milk crust|Three|Sitting|||القشده|ثلاث|جالس|||Kaymak|Üç|Oturuyor||
+5|4|74||Milk crust|القشده|Kaymak||||1|0|0|0|0|Şate|Yeşe|Şıse||||||||||||||||||||||
+1|4|75|||||Щыl|0083||2|0|0|0|0|Şé'|Şı'|Şıt|Şit|||||||||||||||||||||
+6|5|76|Şı'|||||||2|0|0|0|0|||||||||||Measure / Milking|Exists|Milk crust|||يقيس / يحلب|موجود|القشده|||Ölçüyor/ Sağıyor|Var|Kaymak||
+5|5|77||Exists|موجود|Var||||2|0|0|0|0|Şate|Şı'|Yeşe||||||||||||||||||||||
+1|5|78|||||Щыс|0084||3|0|0|0|0|Şıt|Yeşe|Şıs|Şı'|||||||||||||||||||||
+6|5|79|Şıs|||||||3|0|0|0|0|||||||||||Exists|Example|Sitting|||موجود|مثال|جالس|||Var|Örnek|Oturuyor||
+5|5|80||Sitting|جالس|Oturuyor||||1|0|0|0|0|Şıs|Şesı|Şış||||||||||||||||||||||
+1|5|81|||||Щыщ|0085||1|0|0|0|0|Şış|Şeş|Tat|Teḱuwe|||||||||||||||||||||
+6|5|82|Şış|||||||2|0|0|0|0|||||||||||Three|Belongs to|Milk crust|||ثلاث|ينتمي الى|القشده|||Üç|Ait|Kaymak||
+5|5|83||Belongs to|ينتمي الى|Ait||||1|0|0|0|0|Şış|Şıs|Şı||||||||||||||||||||||
+1|5|84|||||Ещы|0086||2|0|0|0|0|Yeşe|Yeşı|Ao|Şıt|||||||||||||||||||||
+6|5|85|Yeşı|||||||1|0|0|0|0|||||||||||Measure / Milking|Milk crust|Sell|||يقيس / يحلب|القشده|يبيع|||Ölçüyor / Sağıyor|Kaymak|Satıyor||
+5|5|86||Measure / Milking|يقيس / يحلب|Ölçüyor / Sağıyor||||3|0|0|0|0|Şı'|Yeşe|Yeşı||||||||||||||||||||||
+1|5|87|||||Ещэ|0087||3|0|0|0|0|Wate|Yieşe|Yeşe|Yeşı|||||||||||||||||||||
+6|5|88|Yeşe|||||||2|0|0|0|0|||||||||||Example|Sell|Measure / Milking|||مثال|يبيع|يقيس / يحلب|||Örnek|Satıyor|Ölçüyor / Sağıyor||
+5|5|89||Sell|يبيع|Satıyor||||3|0|0|0|0|Yeşı|Şı|Yeşe||||||||||||||||||||||
+1|5|90|||||Щыт|0088||1|0|0|0|0|Şıt|Şı'|Şıs|Şit|||||||||||||||||||||

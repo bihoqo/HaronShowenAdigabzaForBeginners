@@ -1,0 +1,109 @@
+#Type|ExerciseNumber|QuestionNumber|QuestionSubText|QuestionSubTextEnglish|QuestionSubTextArabic|QuestionSubTextTurkish|QuestionAudio|QuestionAudioFile|QuestionImage|RightAnswer1|RightAnswer2|RightAnswer3|RightAnswer4|RightAnswer5|Answer1|Answer2|Answer3|Answer4|Answer5|AnswerAudio1|AnswerAudio2|AnswerAudio3|AnswerAudio4|AnswerAudio5|AnswerEnglish1|AnswerEnglish2|AnswerEnglish3|AnswerEnglish4|AnswerEnglish5|AnswerArabic1|AnswerArabic2|AnswerArabic3|AnswerArabic4|AnswerArabic5|AnswerTurkish1|AnswerTurkish2|AnswerTurkish3|AnswerTurkish4|AnswerTurkish5
+
+# áçćéǵğḣıḱĺöṕşśšṫüź
+# ÁÇĆÉǴĞḢİḰĹÖṔŞŚŠṪÜŹ
+
+# eId, stage, lesson: 1, 2, 4
+4|1|1|||||Тыдэ о ущыпcэypа?|0516||1|0|0|0|0|Tıde we wışıpsewra?|Tıde se sışıpsewra?|Tıde yej şıpsewra?||||||||||||||||||||||
+4|1|2|||||Къaлэ|0517||2|0|0|0|0|Tıde|Kale|Koáce||||||||||||||||||||||
+4|1|3|||||Сэ къaлэу Мекъуапэ сыщэпcэy.|0518||3|0|0|0|0|Se kalew Çerḱésḱı sışepsewı.|We kalew Nalçıḱı wışepsewı.|Se kalew Mékoápe sışepsewı.||||||||||||||||||||||
+6|1|4|Tıde we wışıpsewra?|||||||2|0|0|0|0|||||||||||Where do I live?|Where do you live?|Where does he live?|||أين أعيش؟|أين تعيش؟|أين يعيش؟|||Ben nerede yaşıyorum?|Nerede yaşıyorsun?|O nerede yaşıyor?||
+6|1|5|Kale|||||||3|0|0|0|0|||||||||||Village|Where|City|||قرية|أين|مدينة|||Köy|Nerede|Kent||
+6|1|6|Se kalew Mékoápe sışepsewı.|||||||1|0|0|0|0|||||||||||I live in Maykop city.|You live in Nalchik city.|He lives in Charkesk city.|||أنا أعيش في مدينة مايكوب.|أنت تعيش في مدينة نالتشيك.|هو يعيش في مدينة تشاركيسك.|||Maykop şehrinde yaşıyorum.|Nalçik şehrinde yaşıyorsun.|Çerkesk şehrinde yaşıyor.||
+5|1|7||Where do you live?|أين تعيش؟|Nerede yaşıyorsun?||||3|0|0|0|0|Tıde se sışıpsewra?|Tıde yej şıpsewra?|Tıde we wışıpsewra?||||||||||||||||||||||
+5|1|8||City|مدينة|Kent||||2|0|0|0|0|Koáce|Kale|Tıde||||||||||||||||||||||
+5|1|9||I live in Maykop city.|أنا أعيش في مدينة مايكوب.|Maykop şehrinde yaşıyorum.||||1|0|0|0|0|Se kalew Mékoápe sışepsewı.|Se Mékoápe sışepsewı.|Yej kalew Çerḱésḱı şepsewı.||||||||||||||||||||||
+4|1|10|||||Тыдэ сэ сыщыпcэypа?|0519||1|0|0|0|0|Tıde se sışıpsewra?|Tıde se wışış?|Tıde we wışıpsewra?||||||||||||||||||||||
+4|1|11|||||О къaлэу Налчыкы ущэпcэy.|0520||2|0|0|0|0|Yej kalew Çerḱésḱı şepsewı.|We kalew Nalçıḱı wışepsewı.|We kalew Mékoápe wışepsewı.||||||||||||||||||||||
+6|1|12|Tıde se sışıpsewra?|||||||3|0|0|0|0|||||||||||Where does he live?|Where do you live?|Where do I live?|||أين يعيش؟|أين تعيش؟|أين أعيش؟|||O nerede yaşıyor?|Nerede yaşıyorsun?|Ben nerede yaşıyorum?||
+6|1|13|We kalew Nalçıḱı wışepsewı.|||||||1|0|0|0|0|||||||||||You live in Nalchik city.|He lives in Charkesk city.|I live in Maykop city.|||أنت تعيش في مدينة نالتشيك.|هو يعيش في مدينة تشاركيسك.|أنا أعيش في مدينة مايكوب.|||Nalçik şehrinde yaşıyorsun.|Çerkesk şehrinde yaşıyor.|Maykop şehrinde yaşıyorum.||
+5|1|14||Where do I live?|أين أعيش؟|Ben nerede yaşıyorum?||||3|0|0|0|0|Tıde we sışıpsewra?|Tıde we wışış?|Tıde se sışıpsewra?||||||||||||||||||||||
+5|1|15||You live in Nalchik city.|أنت تعيش في مدينة نالتشيك.|Nalçik şehrinde yaşıyorsun.||||2|0|0|0|0|We kalew Çerḱésḱı wışepsewı.|We kalew Nalçıḱı wışepsewı.|Se Mékoápe sışepsewı.||||||||||||||||||||||
+4|1|16|||||Тыдэ ежь щыпcэypа?|0521||3|0|0|0|0|Tıde we wışış?|Tıde se sışıpsewra?|Tıde yej şıpsewra?||||||||||||||||||||||
+6|1|17|Tıde yej şıpsewra?|||||||2|0|0|0|0|||||||||||Where do you live?|Where does he live?|Where do I live?|||أين تعيش؟|أين يعيش؟|أين أعيش؟|||Nerede yaşıyorsun ?|O nerede yaşıyor?|Ben nerede yaşıyorum?||
+5|1|18||Where does he live?|أين يعيش؟|O nerede yaşıyor?||||1|0|0|0|0|Tıde yej şıpsewra?|Tıde se sışıpsewra?|Tıde we sışıpsewra?||||||||||||||||||||||
+4|1|19|||||Ежь къaлэу Чэркескы щэпcэy.|0522||1|0|0|0|0|Yej kalew Çerḱésḱı şepsewı.|Yej Çerḱésḱı şepsewı.|We kalew Nalçıḱı wışepsewı.||||||||||||||||||||||
+6|1|20|Yej kalew Çerḱésḱı şepsewı.|||||||1|0|0|0|0|||||||||||He lives in Charkesk city.|I live in Maykop city.|You live in Nalchik city.|||هو يعيش في مدينة تشاركيسك.|أنا أعيش في مدينة مايكوب.|أنت تعيش في مدينة نالتشيك.|||Çerkesk şehrinde yaşıyor.|Maykop şehrinde yaşıyorum.|Nalçik şehrinde yaşıyorsun.||
+5|2|21||He lives in Charkesk city.|هو يعيش في مدينة تشاركيسك.|Çerkesk şehrinde yaşıyor.||||3|0|0|0|0|Yej Çerḱésḱı şepsewı.|Yej kalew Çerḱésḱı wışepsewı.|Yej kalew Çerḱésḱı şepsewı.||||||||||||||||||||||
+7|2|22|Tıde ___  wışıpsewra?|||||||1|0|0|0|0|we|se|yej||||||||||||||||||||||
+7|2|23|___ kalew Mékoápe sışepsewı.|||||||2|0|0|0|0|Yej|Se|We||||||||||||||||||||||
+7|2|24|Tıde ___ sışıpsewra?|||||||2|0|0|0|0|we|se|yej||||||||||||||||||||||
+7|2|25|___ kalew Nalçıḱı wışepsewı.|||||||3|0|0|0|0|Yej|Se|We||||||||||||||||||||||
+7|2|26|Tıde ___ şıpsewra?|||||||3|0|0|0|0|we|se|yej||||||||||||||||||||||
+7|2|27|___ kalew Çerḱésḱı şepsewı.|||||||1|0|0|0|0|Yej|Se|We||||||||||||||||||||||
+4|2|29|||||Ары|0523||1|0|0|0|0|Arı|Des|Haw||||||||||||||||||||||
+4|2|30|||||Хьау|0524||2|0|0|0|0|Tıde|Haw|Arı||||||||||||||||||||||
+6|2|31|Arı|||||||3|0|0|0|0|||||||||||No|Live|Yes|||لا|يسكن|نعم|||Hayır|Yaşıyorum|Evet||
+6|2|32|Haw|||||||2|0|0|0|0|||||||||||Yes|No|Not live|||نعم|لا|لا يسكن|||Evet|Hayır|Yaşamıyor||
+5|2|33||Yes|نعم|Evet||||3|0|0|0|0|Haw|Sıdes|Arı||||||||||||||||||||||
+5|2|34||No|لا|Hayır||||2|0|0|0|0|sıdesa|Haw|Arı||||||||||||||||||||||
+4|2|35|||||О Чэркескы удэса?|0525||3|0|0|0|0|Yej Nalçıḱı desa?|Se Miyekoápe sıdesa?|We Çerḱésḱı wıdesa?||||||||||||||||||||||
+4|2|36|||||Ары, сэ Чэркескы сыдэс.|0526||1|0|0|0|0|Arı, se Çerḱésḱı sıdes.|Arı, yej Nalçıḱı des.|Haw, se Çerḱésḱı sıdesep.||||||||||||||||||||||
+4|2|37|||||Хьау, сэ Чэркескы сыдэсэп.|0527||2|0|0|0|0|Haw, yej Nalçıḱı desep.|Haw, se Çerḱésḱı sıdesep.|Haw, we Miyekoápe wıdesep.||||||||||||||||||||||
+6|2|38|We Çerḱésḱı wıdesa?|||||||1|0|0|0|0|||||||||||Do you live in Charkes?|Do I live in Maykop?|Does he live in Nalchik?|||هل أنت تسكن في تشاركيسك؟|هل أنا أسكن في مايكوب؟|هل هو يسكن في نالتشيك؟|||Çerkesk'te mi yaşıyorsun?|Maykop'ta mı yaşıyorum?|Nalçik'te mi yaşıyor?||
+6|2|39|Arı, se Çerḱésḱı sıdes.|||||||3|0|0|0|0|||||||||||No, I do not live in Charkes.|Yes, you live in Maykop.|Yes, I live in Charkes.|||لا ، أنا لا أسكن في تشاركيسك.|نعم، أنت تسكن في مايكوب.|نعم ، أنا أسكن في تشاركيسك.|||Hayır, Çerkesk'te yaşamıyorum.|Evet, Maykop'ta yaşıyorsunuz.|Evet, Çerkesk'te yaşıyorum.||
+6|2|40|Haw, se Çerḱésḱı sıdesep.|||||||2|0|0|0|0|||||||||||Yes, I live in Charkes.|No, I do not live in Charkes.|No, He does not live in Nalchik.|||نعم ، أنا أسكن في تشاركيسك.|لا ، أنا لا أسكن في تشاركيسك.|لا ، هو لا يسكن في نالتشيك.|||Evet, Çerkesk'te yaşıyorum.|Hayır, Çerkesk'te yaşamıyorum.|Hayır, Nalçik'te yaşamıyor.||
+5|3|41||Do you live in Charkes?|هل أنت تسكن في تشاركيسك؟|Çerkesk'te mi yaşıyorsun?||||1|0|0|0|0|We Çerḱésḱı wıdesa?|We Çerḱésḱı wıdes?|We Çerḱésḱı wıdesep?||||||||||||||||||||||
+5|3|42||Yes, I live in Charkes.|نعم ، أنا أسكن في تشاركيسك.|Evet, Çerkesk'te yaşıyorum.||||3|0|0|0|0|Arı, se Çerḱésḱı sıdesa.|Arı, se Çerḱésḱı sıdesep.|Arı, se Çerḱésḱı sıdes.||||||||||||||||||||||
+5|3|43||No, I do not live in Charkes.|لا ، أنا لا أسكن في تشاركيسك.|Hayır, Çerkesk'te yaşamıyorum.||||2|0|0|0|0|Haw, se Çerḱésḱı sıdes.|Haw, se Çerḱésḱı sıdesep.|Haw, se Çerḱésḱı sıdesa.||||||||||||||||||||||
+7|3|44|_____, se Çerḱésḱı sıdes.|||||||3|0|0|0|0|Haw|Des|Arı||||||||||||||||||||||
+7|3|45|_____, se Çerḱésḱı sıdesep.|||||||2|0|0|0|0|Arı|Haw|Sıdes||||||||||||||||||||||
+7|3|46|We Çerḱésḱı _____ ?|||||||1|0|0|0|0|wıdesa|wıdes|desa||||||||||||||||||||||
+7|3|47|Arı, se Çerḱésḱı _____.|||||||3|0|0|0|0|des|sıdesep|sıdes||||||||||||||||||||||
+7|3|48|Haw, se Çerḱésḱı _____.|||||||2|0|0|0|0|sıdes|sıdesep|sıdesa||||||||||||||||||||||
+4|3|49|||||Сэ Мыекъуапэ сыдэса?|0528||3|0|0|0|0|Yej Nalçıḱı desa?|We Çerḱésḱı wıdesa?|Se Miyekoápe sıdesa?||||||||||||||||||||||
+4|3|50|||||Ары, о Мыекъуапэ удэс.|0529||2|0|0|0|0|Arı, yej Nalçıḱı des.|Arı, we Miyekoápe wıdes.|Arı, se Çerḱésḱı sıdes.||||||||||||||||||||||
+4|3|51|||||Хьау, о Мыекъуапэ удэсэп.|0530||1|0|0|0|0|Haw, we Miyekoápe wıdesep.|Haw, yej Nalçıḱı desep.|Haw, se Çerḱésḱı sıdesep.||||||||||||||||||||||
+6|3|52|Se Miyekoápe sıdesa?|||||||1|0|0|0|0|||||||||||Do I live in Maykop?|Does he live in Nalchik?|Do you live in Charkes?|||هل أنا أسكن في مايكوب؟|هل هو يسكن في نالتشيك؟|هل أنت تسكن في تشاركيسك؟|||Maykop'ta mı yaşıyorum?|Nalçik'te mi yaşıyor?|Çerkesk'te mi yaşıyorsun?||
+# áçćéǵğḣıḱĺöṕşśšṫüź
+# ÁÇĆÉǴĞḢİḰĹÖṔŞŚŠṪÜŹ
+6|3|53|Arı, we Miyekoápe wıdes.|||||||3|0|0|0|0|||||||||||No, you do not live in Maykop.|Yes, I live in Charkes.|Yes, you live in Maykop.|||لا، أنت لا تسكن في مايكوب.|نعم ، أنا أسكن في تشاركيسك.|نعم، أنت تسكن في مايكوب.|||Hayır, Maykop'ta yaşamıyorsunuz.|Evet, Çerkesk'te yaşıyorum.|Evet, Maykop'ta yaşıyorsunuz.||
+6|3|54|Haw, we Miyekoápe wıdesep.|||||||2|0|0|0|0|||||||||||Yes, you live in Maykop.|No, you do not live in Maykop.|No, I do not live in Charkes.|||نعم، أنت تسكن في مايكوب.|لا، أنت لا تسكن في مايكوب.|لا ، أنا لا أسكن في تشاركيسك.|||Evet, Maykop'ta yaşıyorsunuz.|Hayır, Maykop'ta yaşamıyorsunuz.|Hayır, Nalçik'te yaşamıyor.||
+5|3|55||Do I live in Maykop?|هل أنا أسكن في مايكوب؟|Maykop'ta mı yaşıyorum?||||1|0|0|0|0|Se Miyekoápe sıdesa?|Se Miyekoápe sıdes?|Se Miyekoápe sıdesep?||||||||||||||||||||||
+5|3|56||Yes, you live in Maykop.|نعم، أنت تسكن في مايكوب.|Evet, Maykop'ta yaşıyorsunuz.||||3|0|0|0|0|Arı, we Miyekoápe wıdesep.|Arı, we Miyekoápe wıdesa.|Arı, we Miyekoápe wıdes.||||||||||||||||||||||
+5|3|57||No, you do not live in Maykop.|لا، أنت لا تسكن في مايكوب.|Hayır, Maykop'ta yaşamıyorsunuz.||||2|0|0|0|0|Haw, we Miyekoápe wıdes.|Haw, we Miyekoápe wıdesep.|Haw, we Miyekoápe wıdesa.||||||||||||||||||||||
+7|3|58|_____, we Miyekoápe wıdes.|||||||3|0|0|0|0|Haw|Wıdes|Arı||||||||||||||||||||||
+7|3|59|_____, we Miyekoápe wıdesep.|||||||2|0|0|0|0|Arı|Haw|Wıdesep||||||||||||||||||||||
+7|3|60|Se Miyekoápe _____ ?|||||||1|0|0|0|0|sıdes|sıdesa|sıdesep||||||||||||||||||||||
+7|4|61|Arı, we Miyekoápe _____.|||||||3|0|0|0|0|sıdesa|wıdesep|wıdes||||||||||||||||||||||
+7|4|62|Haw, we Miyekoápe _____.|||||||2|0|0|0|0|wıdesa|wıdesep|wıdes||||||||||||||||||||||
+7|4|63|Tıde we _____ ?|||||||3|0|0|0|0|des|sıdes|wıdes||||||||||||||||||||||
+7|4|64|Se Miyekoápe _____.|||||||1|0|0|0|0|sıdesa|sıdes|sıdesep||||||||||||||||||||||
+4|4|65|||||Ежь Налчыкы дэса?|0531||3|0|0|0|0|Se Miyekoápe sıdesa?|We Çerḱésḱı wıdesa?|Yej Nalçıḱı desa?||||||||||||||||||||||
+4|4|66|||||Ары, ежь Налчыкы дэс.|0532||2|0|0|0|0|Arı, se Çerḱésḱı sıdes.|Arı, yej Nalçıḱı des.|Arı, we Miyekoápe wıdes.||||||||||||||||||||||
+4|4|67|||||Хьау, ежь Налчыкы дэсэп.|0533||1|0|0|0|0|Haw, yej Nalçıḱı desep.|Haw, we Miyekoápe wıdesep.|Haw, se Çerḱésḱı sıdesep.||||||||||||||||||||||
+6|4|68|Yej Nalçıḱı desa?|||||||1|0|0|0|0|||||||||||Does he live in Nalchik?|Do you live in Charkes?|Do I live in Maykop?|||هل هو يسكن في نالتشيك؟|هل أنت تسكن في تشاركيسك؟|هل أنا أسكن في مايكوب؟|||Nalçik'te mi yaşıyor?|Çerkesk'te mi yaşıyorsun?|Maykop'ta mı yaşıyorum?||
+6|4|69|Arı, yej Nalçıḱı des.|||||||3|0|0|0|0|||||||||||No, He does not live in Nalchik.|Yes, you live in Maykop.|Yes, He lives in Nalchik.|||لا ، هو لا يسكن في نالتشيك.|نعم، أنت تسكن في مايكوب.|نعم ، هو يسكن في نالتشيك.|||Hayır, Nalçik'te yaşamıyor.|Evet, Maykop'ta yaşıyorsunuz.|Evet, Nalçik'te yaşıyor.||
+6|4|70|Haw, yej Nalçıḱı desep.|||||||2|0|0|0|0|||||||||||Yes, He lives in Nalchik.|No, He does not live in Nalchik.|No, I do not live in Charkes.|||نعم ، هو يسكن في نالتشيك.|لا ، هو لا يسكن في نالتشيك.|لا ، أنا لا أسكن في تشاركيسك.|||Evet, Nalçik'te yaşıyor.|Hayır, Nalçik'te yaşamıyor.|Hayır, Çerkesk'te yaşamıyorum.||
+5|4|71||Does he live in Nalchik?|هل هو يسكن في نالتشيك؟|Nalçik'te mi yaşıyor?||||1|0|0|0|0|Yej Nalçıḱı desa?|Yej Nalçıḱı des?|Yej Nalçıḱı desep?||||||||||||||||||||||
+5|4|72||Yes, He lives in Nalchik.|نعم ، هو يسكن في نالتشيك.|Evet, Nalçik'te yaşıyor.||||2|0|0|0|0|Haw, yej Nalçıḱı des.|Arı, yej Nalçıḱı des.|Arı, yej Nalçıḱı desep.||||||||||||||||||||||
+5|4|73||No, He does not live in Nalchik.|لا ، هو لا يسكن في نالتشيك.|Hayır, Nalçik'te yaşamıyor.||||1|0|0|0|0|Haw, yej Nalçıḱı desep.|Haw, yej Nalçıḱı dese.|Arı, yej Nalçıḱı desep.||||||||||||||||||||||
+7|4|74|_____, yej Nalçıḱı des.|||||||1|0|0|0|0|Arı|Des|Haw||||||||||||||||||||||
+7|4|75|_____, yej Nalçıḱı desep.|||||||2|0|0|0|0|Sıdes|Haw|Arı||||||||||||||||||||||
+7|4|76|Yej Nalçıḱı  _____ ?|||||||3|0|0|0|0|desep|des|desa||||||||||||||||||||||
+7|4|77|Arı, yej Nalçıḱı _____.|||||||1|0|0|0|0|des|desa|desep||||||||||||||||||||||
+7|4|78|Haw, yej Nalçıḱı _____.|||||||2|0|0|0|0|des|desep|desa||||||||||||||||||||||
+7|4|79|Tıde se _____ ?|||||||2|0|0|0|0|sıdesa|sıdes|sıdesep||||||||||||||||||||||
+7|4|80|We Çerḱésḱı _____.|||||||1|0|0|0|0|wıdes|wıdesep|wıdesa||||||||||||||||||||||
+4|5|81|||||Тыдэ о удэс?|0534||3|0|0|0|0|Tıde yej des?|Tıde se sıdes?|Tıde we wıdes?||||||||||||||||||||||
+4|5|82|||||Сэ Мыекъуапэ сыдэс.|0535||1|0|0|0|0|Se Miyekoápe sıdes.|Yej Nalçıḱı des.|We Çerḱésḱı wıdes.||||||||||||||||||||||
+4|5|83|||||Тыдэ сэ сыдэс?|0536||3|0|0|0|0|Tıde we wıdes?|Tıde yej des?|Tıde se sıdes?||||||||||||||||||||||
+4|5|84|||||О Чэркескы удэс.|0537||1|0|0|0|0|We Çerḱésḱı wıdes.|Se Miyekoápe sıdes.|Yej Nalçıḱı des.||||||||||||||||||||||
+4|5|85|||||Тыдэ ежь дэс?|0538||2|0|0|0|0|Tıde se sıdes?|Tıde yej des?|Tıde we wıdes?||||||||||||||||||||||
+4|5|86|||||Ежь Налчыкы дэс.|0539||3|0|0|0|0|We Çerḱésḱı wıdes.|Se Miyekoápe sıdes.|Yej Nalçıḱı des.||||||||||||||||||||||
+6|5|87|Tıde we wıdes?|||||||1|0|0|0|0|||||||||||Where do you live ?|Where does he live?|Where do I live?|||أين أنت تسكن؟|أين هو يسكن؟|أين أنا أسكن؟|||Nerede yaşıyorsun ?|Nerede yaşıyor?|Nerede yaşıyorum?||
+6|5|88|Se Miyekoápe sıdes.|||||||2|0|0|0|0|||||||||||You live in Charkes.|I live in Maykop.|He lives in Nalchik.|||أنت تسكن في تشاركيسك.|أنا أسكن في مايكوب.|هو يسكن في نالتشيك.|||Çerkesk'te yaşıyorsun.|Maykop'ta yaşıyorum.|Nalçik'te yaşıyor.||
+6|5|89|Tıde se sıdes?|||||||1|0|0|0|0|||||||||||Where do I live?|Where do you live ?|Where does he live?|||أين أنا أسكن؟|أين أنت تسكن؟|أين هو يسكن؟|||Nerede yaşıyorum?|Nerede yaşıyorsun ?|Nerede yaşıyor?||
+6|5|90|We Çerḱésḱı wıdes.|||||||3|0|0|0|0|||||||||||I live in Maykop.|He lives in Nalchik.|You live in Charkes.|||أنا أسكن في مايكوب.|هو يسكن في نالتشيك.|أنت تسكن في تشاركيسك.|||Maykop'ta yaşıyorum.|Nalçik'te yaşıyor.|Çerkesk'te yaşıyorsun.||
+6|5|91|Tıde yej des?|||||||2|0|0|0|0|||||||||||Where do I live?|Where does he live?|Where do you live ?|||أين أنا أسكن؟|أين هو يسكن؟|أين أنت تسكن؟|||Nerede yaşıyorum?|Nerede yaşıyor?|Nerede yaşıyorsun ?||
+6|5|92|Yej Nalçıḱı des.|||||||1|0|0|0|0|||||||||||He lives in Nalchik.|You live in Charkes.|I live in Maykop.|||هو يسكن في نالتشيك.|أنت تسكن في تشاركيسك.|أنا أسكن في مايكوب.|||Nalçik'te yaşıyor.|Çerkesk'te yaşıyorsun.|Maykop'ta yaşıyorum.||
+5|5|93||Where do you live?|أين أنت تسكن؟|Nerede yaşıyorsun?||||3|0|0|0|0|Tıde we des?|Tıde we wıdesa?|Tıde we wıdes?||||||||||||||||||||||
+5|5|94||I live in Maykop.|أنا أسكن في مايكوب.|Maykop'ta yaşıyorum.||||3|0|0|0|0|Se Miyekoápe sıdesep.|Se Miyekoápe sıdesa.|Se Miyekoápe sıdes.||||||||||||||||||||||
+5|5|95||Where do I live?|أين أنا أسكن؟|Nerede yaşıyorum?||||2|0|0|0|0|Tıde se sıdesa?|Tıde se sıdes?|Tıde se sıdesep?||||||||||||||||||||||
+5|5|96||You live in Charkes.|أنت تسكن في تشاركيسك.|Çerkesk'te yaşıyorsun.||||1|0|0|0|0|We Çerḱésḱı wıdes.|We Çerḱésḱı wıdesa.|We Çerḱésḱı wıdesep.||||||||||||||||||||||
+5|5|97||Where does he live?|أين هو يسكن|Nerede yaşıyor?||||3|0|0|0|0|Tıde yej desa?|Tıde yej desep?|Tıde yej des?||||||||||||||||||||||
+5|5|98||He lives in Nalchik.|هو يسكن في نالتشيك.|Nalçik'te yaşıyor.||||2|0|0|0|0|Yej Nalçıḱı desep.|Yej Nalçıḱı des.|Yej Nalçıḱı desa.||||||||||||||||||||||
+7|5|99|Tıde yej _____ ?|||||||3|0|0|0|0|desep|desa|des||||||||||||||||||||||
+7|5|100|Yej Nalçıḱı _____.|||||||1|0|0|0|0|des|desa|desep||||||||||||||||||||||
+# áçćéǵğḣıḱĺöṕşśšṫüź
+# ÁÇĆÉǴĞḢİḰĹÖṔŞŚŠṪÜŹ

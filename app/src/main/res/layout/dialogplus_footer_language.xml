@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layoutDirection="ltr"
+    android:background="@color/dialogplus_background_language">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_language_footer_buttonSelect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingVertical="4dp"
+        android:layout_weight="1"
+        android:layout_marginStart="80dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/button_select"
+        android:enabled="false"
+        android:textAllCaps="false"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size"
+        android:textColor="@color/black"
+        android:background="@drawable/background_select_dialogplus_language_enabled"
+        android:outlineProvider="background"/>
+<!--    android:background="@drawable/background_select_dialogplus_language"-->
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_language_footer_buttonCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingVertical="4dp"
+        android:layout_weight="1"
+        android:layout_marginEnd="80dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/button_cancel"
+        android:enabled="true"
+        android:textAllCaps="false"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size"
+        android:textColor="@color/black"
+        android:background="@drawable/background_select_dialogplus_language_disabled"
+        android:outlineProvider="background"/>
+<!--    android:background="@drawable/background_select_dialogplus_language"-->
+<!--    android:background="@drawable/background_select_dialogplus_language_enabled"-->
+</LinearLayout>

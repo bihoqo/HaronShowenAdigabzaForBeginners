@@ -1,0 +1,76 @@
+#Type|ExerciseNumber|QuestionNumber|QuestionSubText|QuestionSubTextEnglish|QuestionSubTextArabic|QuestionSubTextTurkish|QuestionAudio|QuestionAudioFile|QuestionImage|RightAnswer1|RightAnswer2|RightAnswer3|RightAnswer4|RightAnswer5|Answer1|Answer2|Answer3|Answer4|Answer5|AnswerAudio1|AnswerAudio2|AnswerAudio3|AnswerAudio4|AnswerAudio5|AnswerEnglish1|AnswerEnglish2|AnswerEnglish3|AnswerEnglish4|AnswerEnglish5|AnswerArabic1|AnswerArabic2|AnswerArabic3|AnswerArabic4|AnswerArabic5|AnswerTurkish1|AnswerTurkish2|AnswerTurkish3|AnswerTurkish4|AnswerTurkish5
+
+
+#Type|ExerciseNumber|QuestionNumber|QuestionSubText|QuestionSubTextEnglish|QuestionSubTextArabic|QuestionSubTextTurkish|QuestionAudio|QuestionAudioFile|QuestionImage|RightAnswer1|RightAnswer2|RightAnswer3|RightAnswer4|RightAnswer5|Answer1|Answer2|Answer3|Answer4|Answer5|AnswerAudio1|AnswerAudio2|AnswerAudio3|AnswerAudio4|AnswerAudio5|AnswerEnglish1|AnswerEnglish2|AnswerEnglish3|AnswerEnglish4|AnswerEnglish5|AnswerArabic1|AnswerArabic2|AnswerArabic3|AnswerArabic4|AnswerArabic5|AnswerTurkish1|AnswerTurkish2|AnswerTurkish3|AnswerTurkish4|AnswerTurkish5
+
+#Type|ExerciseNumber|QuestionNumber|QuestionSubText|QuestionSubTextEnglish|QuestionSubTextArabic|QuestionSubTextTurkish|QuestionAudio|QuestionAudioFile|QuestionImage|RightAnswer|Answer1|Answer2|Answer3|Answer4|AnswerAudio1|AnswerAudio2|AnswerAudio3|AnswerAudio4|Answer1English|Answer2English|Answer3English|Answer1Arabic|Answer2Arabiс|Answer3Arabic|Answer1Turkish|Answer2Turkish|Answer3Turkish
+
+8|1|1||||||||2|4|1|5|3|Сэ|Цlэ|Фэсапщи|Мыр|О|0011|0444|0443|0447|0041|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+8|1|2||||||||3|5|2|4|1|О|Мыр|Сэ|Цlэ|Фэсапщи|0041|0447|0011|0444|0443|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+8|1|3||||||||2|4|1|5|3|Сэ|Цlэ|Фэсапщи|Мыр|О|0011|0444|0443|0447|0041|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+8|1|4||||||||3|5|2|4|1|О|Мыр|Сэ|Цlэ|Фэсапщи|0041|0447|0011|0444|0443|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+8|1|5||||||||2|4|1|5|3|Сэ|Цlэ|Фэсапщи|Мыр|О|0011|0444|0443|0447|0041|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+8|1|6||||||||3|5|2|4|1|О|Мыр|Сэ|Цlэ|Фэсапщи|0041|0447|0011|0444|0443|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+8|1|7||||||||2|4|1|5|3|Сэ|Цlэ|Фэсапщи|Мыр|О|0011|0444|0443|0447|0041|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+8|1|8||||||||3|5|2|4|1|О|Мыр|Сэ|Цlэ|Фэсапщи|0041|0447|0011|0444|0443|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+8|1|9||||||||2|4|1|5|3|Сэ|Цlэ|Фэсапщи|Мыр|О|0011|0444|0443|0447|0041|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+8|1|10||||||||3|5|2|4|1|О|Мыр|Сэ|Цlэ|Фэсапщи|0041|0447|0011|0444|0443|Welcome|I am|You|Name|This|أهلا وسهلا|أنا|أنت|اسم|هذا|Hoşgeldiniz|Ben|Sen|Adın|Bu
+
+
+#
+#Type
+#ExerciseNumber
+#QuestionNumber
+#QuestionSubText
+#QuestionSubTextEnglish
+#QuestionSubTextArabic
+#QuestionSubTextTurkish
+#QuestionAudio
+#QuestionAudioFile
+#QuestionImage
+# --> RightAnswer
+# ==> RightAnswer1
+# ==> RightAnswer2
+# ==> RightAnswer3
+# ==> RightAnswer4
+# ==> RightAnswer5
+#
+#
+#Answer1
+#Answer2
+#Answer3
+#Answer4
+# ==> Answer5
+#AnswerAudio1
+#AnswerAudio2
+#AnswerAudio3
+#AnswerAudio4
+# ==> AnswerAudio5
+#
+# --> Answer1English
+# --> Answer2English
+# --> Answer3English
+# ==> AnswerEnglish1
+# ==> AnswerEnglish2
+# ==> AnswerEnglish3
+# ==> AnswerEnglish4
+# ==> AnswerEnglish5
+#
+# --> Answer1Arabic
+# --> Answer2Arabiс
+# --> Answer3Arabic
+# ==> AnswerArabic1
+# ==> AnswerArabic2
+# ==> AnswerArabic3
+# ==> AnswerArabic4
+# ==> AnswerArabic5
+#
+# --> Answer1Turkish
+# --> Answer2Turkish
+# --> Answer3Turkish
+# ==> AnswerTurkish1
+# ==> AnswerTurkish2
+# ==> AnswerTurkish3
+# ==> AnswerTurkish4
+# ==> AnswerTurkish5
+#

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_lesson_w_num">الدرس رقم %d</string>
+    <string name="button_lesson">الدرس</string>
+    <string name="button_lesson_1">Lesson 1</string>
+    <string name="button_lesson_2">Lesson 2</string>
+    <string name="button_stage">القسم رقم %d</string>
+    <string name="button_stage_1">Stage 1</string>
+    <string name="button_stage_2">Stage 2</string>
+    <string name="lesson_title_what_is_this">ما هذا؟</string>
+    <string name="lesson_title_what_you_hear">إختر ما تسمعه</string>
+    <string name="lesson_title_select_translation">إختر الترجمة الصحيحة</string>
+    <string name="lesson_title_missing_word">إختر الكلمة الناقصة</string>
+    <string name="lesson_title_missing_letter">إختر الحرف الناقص</string>
+    <string name="lesson_title_matching_pairs">إختر الأزواج المترادفة</string>
+    <string name="button_select">إختر</string>
+    <string name="button_cancel">إلغاء</string>
+    <string name="button_choose_language">ع</string>
+    <string name="select_alphabet_title">حدد الأبجدية التي تريد تعلم الأديغابزة بها</string>
+    <string name="main_title">الأديغابزه</string>
+    <string name="alphabet_label_cyrillic">الكيريلية</string>
+    <string name="alphabet_label_latin">اللاتينية</string>
+    <string name="alphabet_cyrillic">الكيريلية</string>
+    <string name="alphabet_latin">اللاتينية</string>
+    <string name="select_language_title">حدد اللغة التي تريد تعلم الأديغابزة بها</string>
+<!--    <string name="dialog_flowers_title">أزهار &lt;font color="red"&gt;%1$d&lt;/font&gt; لديك</string>-->
+    <string name="dialog_flowers_title">لديك &lt;font color="red"&gt;%1$d&lt;/font&gt; أزهار</string>
+<!--    <string name="dialog_flowers_title_one">لديك ز&lt;font color="red"&gt;هرة &lt;font color="red"واحدة&gt;&lt;/font&gt;</string>-->
+    <string name="dialog_flowers_title_one">لديك زهرة &lt;font color="red"&gt;واحدة&lt;/font&gt;</string>
+    <string name="dialog_flowers_content1">هل ترغب في جمع المزيد؟</string>
+    <string name="dialog_flowers_content2">ليس باستطاعتك جمع المزيد. هل لا تزال ترغب في حل التمرين؟</string>
+    <string name="dialog_exit_lesson_title">هل أنت متأكد أنك تريد الخروج؟</string>
+    <string name="dialog_exit_lesson_content">كل الأجوبة في هذا التمرين سوف تلغى!</string>
+    <string name="button_yes">نعم</string>
+    <string name="button_no">لا</string>
+<!--    <string name="language_english">English</string>-->
+<!--    <string name="language_arabic">العربية</string>-->
+<!--    <string name="language_turkish">Türkçe</string>-->
+    <string name="next">التالي</string>
+    <string name="continue_selecting">أكمل</string>
+    <string name="answer">"الجواب: "</string>
+    <string name="lesson_correct_answer">"صحيح!"</string>
+    <string name="lesson_wrong_answer">"ربما في المرة القادمة\nالجواب الصحيح: "</string>
+    <string name="ok">تم</string>
+    <string name="good_job1">رائع جدا!</string>
+    <string name="good_job2">لقد أتممت التمرين بنجاح!</string>
+    <string name="good_job3">لقد أتممت الدرس بنجاح!</string>
+
+    <!--    menu-->
+    <string name="menu_about">عن التطبيق</string>
+    <string name="menu_language">اللغة</string>
+    <string name="menu_alphabet">الأبجدية</string>
+</resources>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#66B32F"
+    android:layoutDirection="ltr"
+    tools:context=".activities.AboutActivity"
+    android:id="@+id/about1">
+<!--    android:background="#3000ff00"-->
+<!--    android:onClick="debug_buttonChangeColorsClicked"-->
+
+    <!--    android:background="#3000ff00"-->
+    <!--    android:background="@color/splash_bg"-->
+
+    <!--    next is for one-time generation of the splashscreen as a screenshot image-->
+<!--    <androidx.appcompat.widget.AppCompatTextView-->
+<!--        android:id="@+id/textViewSplashTop"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:fontFamily="@font/opensans_light"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Connect with\nyour language"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="38dp"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/imageViewSplash"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_chainStyle="packed" />-->
+
+<!--    <androidx.appcompat.widget.AppCompatImageView-->
+<!--        android:id="@+id/imageViewSplash"-->
+<!--        android:layout_width="128dp"-->
+<!--        android:layout_height="150dp"-->
+<!--        android:layout_marginTop="50dp"-->
+<!--        android:layout_marginBottom="30dp"-->
+<!--        android:background="@drawable/splashscreen_new257x300"-->
+<!--        android:scaleType="centerInside"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/textViewSplashBottom"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/textViewSplashTop" />-->
+
+<!--    <androidx.appcompat.widget.AppCompatTextView-->
+<!--        android:id="@+id/textViewSplashBottom"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="30dp"-->
+<!--        android:fontFamily="@font/opensans_regular"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Use the app to learn Adigabza quickly\nand efficiently, while having fun too!"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="19dp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/imageViewSplash" />-->
+
+    <!--    android:visibility="gone"-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+<!--        android:layout_marginTop="@dimen/about_margin1a"-->
+<!--        android:layout_marginBottom="@dimen/about_margin1b"-->
+
+        <!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="horizontal">-->
+<!--            <ImageView-->
+<!--                android:layout_width="@dimen/about_image_size1"-->
+<!--                android:layout_height="@dimen/about_image_size1"-->
+<!--                android:scaleType="fitCenter"-->
+<!--                android:layout_gravity="center_vertical"-->
+<!--                app:srcCompat="@drawable/app_icon200x200_transparent"/>-->
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="@dimen/about_image_size1"-->
+<!--                android:scaleType="fitCenter"-->
+<!--                app:srcCompat="@drawable/about512x220"/>-->
+<!--        </LinearLayout>-->
+        <ImageView
+            android:layout_width="@dimen/about_image_size1"
+            android:layout_height="@dimen/about_image_size1"
+            android:layout_marginBottom="@dimen/about_margin3b"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/app_icon200x200_transparent"/>
+<!--        android:layout_marginTop="@dimen/about_margin3a"-->
+
+        <TextView
+            android:id="@+id/about2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="#00000000"
+            android:fontFamily="casual"
+            android:text="MYADIGA LINGO"
+            android:textColor="#ffffff"
+            android:textDirection="ltr"
+            android:textSize="@dimen/about_text_size1"
+            android:textStyle="bold"
+            android:visibility="visible"/>
+
+        <TextView
+            android:id="@+id/about3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/about_margin4"
+            android:layout_gravity="center_horizontal"
+            android:background="#00000000"
+            android:fontFamily="casual"
+            android:text="Suad Khon"
+            android:textColor="#ffffff"
+            android:textDirection="ltr"
+            android:textSize="@dimen/about_text_size3"
+            android:textStyle="bold"
+            android:visibility="visible"/>
+
+        <TextView
+            android:id="@+id/about3b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/about_margin2"
+            android:layout_gravity="center_horizontal"
+            android:background="#00000000"
+            android:fontFamily="casual"
+            android:text="Content &amp; user experience"
+            android:textColor="#eeeeee"
+            android:textDirection="ltr"
+            android:textSize="@dimen/about_text_size2"
+            android:visibility="visible"/>
+<!--        android:textColor="#555555"-->
+
+        <TextView
+            android:id="@+id/about4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/about_margin3b"
+            android:background="#00000000"
+            android:fontFamily="casual"
+            android:text="Haroon Showgan"
+            android:textColor="#ffffff"
+            android:textDirection="ltr"
+            android:textSize="@dimen/about_text_size3"
+            android:textStyle="bold"
+            android:visibility="visible"/>
+
+        <TextView
+            android:id="@+id/about4b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="@dimen/about_margin2"
+            android:background="#00000000"
+            android:fontFamily="casual"
+            android:text="Software &amp; conversion\nto Latin alphabet"
+            android:textColor="#eeeeee"
+            android:textDirection="ltr"
+            android:textSize="@dimen/about_text_size2"
+            android:visibility="visible"/>
+<!--        android:textColor="#555555"-->
+
+        <TextView
+            android:id="@+id/about5b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/about_margin4"
+            android:background="#00000000"
+            android:fontFamily="casual"
+            android:text="For more content please visit us at:"
+            android:textColor="#eeeeee"
+            android:textDirection="ltr"
+            android:textSize="@dimen/about_text_size2"
+            android:visibility="visible"/>
+<!--        android:textColor="#555555"-->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/textViewAboutYoutube"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/about_margin2"
+                android:background="#00000000"
+                android:fontFamily="casual"
+                android:linksClickable="true"
+                android:text="@string/linkToYoutube"
+                android:textColorLink="#0000ff"
+                android:textDirection="ltr"
+                android:textSize="@dimen/about_text_size3"
+                android:textStyle="bold"
+                android:visibility="visible"/>
+            <TextView
+                android:id="@+id/textViewAboutFacebook"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/about_margin2"
+                android:background="#00000000"
+                android:fontFamily="casual"
+                android:linksClickable="true"
+                android:text="@string/linkToFacebook"
+                android:textColorLink="#0000ff"
+                android:textDirection="ltr"
+                android:textSize="@dimen/about_text_size3"
+                android:textStyle="bold"
+                android:visibility="visible"/>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="@dimen/about_image_width2"
+            android:layout_height="@dimen/about_image_height2"
+            android:layout_marginVertical="@dimen/about_margin6"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/adiga_flag_myadiga"/>
+
+        <TextView
+            android:id="@+id/textViewVersionInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:gravity="center_horizontal"
+            android:background="#00000000"
+            android:fontFamily="casual"
+            android:text="Version name: 1.0   Version code: 1.0"
+            android:textColor="#eeeeee"
+            android:textDirection="ltr"
+            android:textSize="@dimen/about_text_size4"
+            android:visibility="visible"/>
+<!--        android:textColor="#555555"-->
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

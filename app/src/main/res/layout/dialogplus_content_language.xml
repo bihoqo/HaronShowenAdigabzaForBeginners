@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+    android:background="@color/dialogplus_background_language">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_language_content_buttonEnglish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="60dp"
+        android:layout_marginBottom="16dp"
+        android:textAllCaps="false"
+        android:text="@string/language_english"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size"
+        android:textColor="@color/black"
+        android:background="@drawable/background_option_dialogplus_language"
+        android:outlineProvider="background"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_language_content_buttonArabic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="60dp"
+        android:layout_marginBottom="16dp"
+        android:textAllCaps="false"
+        android:text="@string/language_arabic"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size"
+        android:textColor="@color/black"
+        android:background="@drawable/background_option_dialogplus_language"
+        android:outlineProvider="background"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_language_content_buttonTurkish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="60dp"
+        android:layout_marginBottom="16dp"
+        android:textAllCaps="false"
+        android:text="@string/language_turkish"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size"
+        android:textColor="@color/black"
+        android:background="@drawable/background_option_dialogplus_language"
+        android:outlineProvider="background"/>
+</LinearLayout>

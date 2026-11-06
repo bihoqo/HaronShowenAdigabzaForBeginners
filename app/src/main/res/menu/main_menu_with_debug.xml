@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/menu_icon_small"
+        android:title="menu"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/about"
+                android:title="@string/menu_about"
+                android:orderInCategory="100"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/app_language"
+                android:title="@string/menu_language"
+                android:orderInCategory="101"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/alphabet"
+                android:title="@string/menu_alphabet"
+                android:orderInCategory="102"
+                app:showAsAction="never"/>
+
+            <!-- TODO remove all DBG items before releasing to production -->
+            <item android:id="@+id/bg_music"
+                android:title="DBG music"
+                android:orderInCategory="1000"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/dbg_dictionary"
+                android:title="DBG dictionary"
+                android:orderInCategory="1001"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/dbg_show_display_params"
+                android:title="DBG show display parameters"
+                android:orderInCategory="1002"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/dbg_reset_db"
+                android:title="DBG reset DB"
+                android:orderInCategory="1003"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/dbg_splash_screen_delay"
+                android:title="DBG splash screen delay"
+                android:orderInCategory="1004"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/dbg_first_time"
+                android:title="DBG first time"
+                android:orderInCategory="1005"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/dbg_small_db"
+                android:title="DBG small DB"
+                android:orderInCategory="1006"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/dbg_debug_mode"
+                android:title="DBG toggle debug mode"
+                android:orderInCategory="1007"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/dbg_unlock_all_lessons"
+                android:title="DBG toggle unlock all lessons"
+                android:orderInCategory="1008"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/dbg_reset_flowers"
+                android:title="DBG Reset Flowers"
+                android:orderInCategory="1009"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+</menu>

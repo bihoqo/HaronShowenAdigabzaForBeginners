@@ -1,0 +1,79 @@
+#Type|ExerciseNumber|QuestionNumber|QuestionSubText|QuestionSubTextEnglish|QuestionSubTextArabic|QuestionSubTextTurkish|QuestionAudio|QuestionAudioFile|QuestionImage|RightAnswer1|RightAnswer2|RightAnswer3|RightAnswer4|RightAnswer5|Answer1|Answer2|Answer3|Answer4|Answer5|AnswerAudio1|AnswerAudio2|AnswerAudio3|AnswerAudio4|AnswerAudio5|AnswerEnglish1|AnswerEnglish2|AnswerEnglish3|AnswerEnglish4|AnswerEnglish5|AnswerArabic1|AnswerArabic2|AnswerArabic3|AnswerArabic4|AnswerArabic5|AnswerTurkish1|AnswerTurkish2|AnswerTurkish3|AnswerTurkish4|AnswerTurkish5
+
+# áçćéǵğḣıḱĺöṕşśšṫüź
+# ÁÇĆÉǴĞḢİḰĹÖṔŞŚŠṪÜŹ
+
+# eId, stage, lesson: 1, 2, 1
+4|1|1|||||Фэсапщи|0443||1|0|0|0|0|Fesapşi.|Mır Nart.|Mır.||||||||||||||||||||||
+6|1|2|Fesapşi|||||||2|0|0|0|0|||||||||||This|Welcome|Name|||هذا|أهلا وسهلا|اسم|||Bu|Hoş geldin|Ad||
+5|1|3||Welcome|أهلا وسهلا.|Hoş geldin||||3|0|0|0|0|Še|Mır|Fesapşi||||||||||||||||||||||
+4|1|4|||||Фэсапщи , Налмэс.|0446||2|0|0|0|0|Mır Nart.|Fesapşi , Nalmes.|Yej ıšer Nalmes.||||||||||||||||||||||
+5|1|5||Welcome Nalmas.|أهلا وسهلا نالمس.|Hoş geldin Nalmes.||||1|0|0|0|0|Fesapşi , Nalmes.|Se sšer Nalmes.|Fesapşi , Nart.||||||||||||||||||||||
+6|1|6|Fesapşi , Nalmes.|||||||2|0|0|0|0|||||||||||This is Nart.|Welcome Nalmas.|Welcome.|||هذا نارت.|أهلا وسهلا نالمس.|أهلا وسهلا.|||Bu Nart'tır.|Hoş geldin Nalmes.|Hoş geldin.||
+7|1|7|______ , Nalmes.|||||||1|0|0|0|0|Fesapşi|Nalmes|Xeta||||||||||||||||||||||
+4|1|8|||||Сэ|0011||3|0|0|0|0|We|Yej|Se||||||||||||||||||||||
+6|1|9|Se|||||||2|0|0|0|0|||||||||||He|I|You|||هو|أنا|أنت|||Kendisi|Ben|Sen||
+5|1|10||I|أنا|Ben||||3|0|0|0|0|Yej|We|Se||||||||||||||||||||||
+4|1|11|||||О|0041||1|0|0|0|0|We|Se|Yej||||||||||||||||||||||
+6|1|12|We|||||||3|0|0|0|0|||||||||||I|He|You|||أنا|هو|أنت|||Ben|Kendisi|Sen||
+5|1|13||You|أنت|Sen||||2|0|0|0|0|Se|We|Yej||||||||||||||||||||||
+4|1|14|||||Цlэ|0444||1|0|0|0|0|Še|Se|Sše||||||||||||||||||||||
+6|1|15|Še|||||||2|0|0|0|0|||||||||||This|Name|Welcome|||هذا|اسم|أهلا وسهلا|||Bu|Ad|Hoş geldin||
+5|1|16||Name|اسم|Ad||||3|0|0|0|0|Fesapşi|Iše|Še||||||||||||||||||||||
+4|2|17|||||СцIэ|0363||1|0|0|0|0|Sše|Iše|Pše||||||||||||||||||||||
+6|2|18|Sše|||||||1|0|0|0|0|||||||||||My name|Your name|His name|||اسمي|اسمك|اسمه|||Adım|Adın|Adı||
+5|2|19||My name|اسمي|Adım||||2|0|0|0|0|Pše|Sše|Iše||||||||||||||||||||||
+4|2|20|||||Пцlэ|0447||1|0|0|0|0|Pše|Sše|Iše||||||||||||||||||||||
+6|2|21|Pše|||||||1|0|0|0|0|||||||||||Your name|His name|My name|||اسمك|اسمه|اسمي|||Adın|Adı|Adım||
+5|2|22||Your name|اسمك|Adın||||3|0|0|0|0|Iše|Sše|Pše||||||||||||||||||||||
+4|2|23|||||Cыдa?|0445||2|0|0|0|0|Mır?|Sıda?|Xeta?||||||||||||||||||||||
+6|2|24|Sıda?|||||||2|0|0|0|0|||||||||||This?|What?|Who?|||هذا؟|ماذا؟|من؟|||Bu?|Ne?|Kim?||
+5|2|25||What?|ماذا ؟|Ne?||||1|0|0|0|0|Sıda?|Mır?|Xeta?||||||||||||||||||||||
+4|2|26|||||Cыдa о пцIэр?|0448||3|0|0|0|0|Sıda yej ıšer?|Sıda se sšer?|Sıda we pšer?||||||||||||||||||||||
+6|2|27|Sıda we pšer?|||||||3|0|0|0|0|||||||||||What is his name?|What is my name?|What is your name?|||ما اسمه هو؟|ما اسمي أنا؟|ما اسمك أنت؟|||Kendisinin adı nedir?|Benim adım ne?|Senin adın ne?||
+5|2|28||What is your name ?|ما اسمك أنت؟|Senin adın ne?||||1|0|0|0|0|Sıda we pšer?|Sıda se sšer?|Sıda yej ıšer?||||||||||||||||||||||
+7|2|29|Sıda we ______?|||||||2|0|0|0|0|sšer|pšer|ıšer||||||||||||||||||||||
+4|2|30|||||Сэ сцIэр Налмэс.|0449||3|0|0|0|0|Fesapşi , Nalmes.|We pšer Nart.|Se sšer Nalmes.||||||||||||||||||||||
+6|2|31|Se sšer Nalmes.|||||||2|0|0|0|0|||||||||||Her name is Nalmas.|My name is Nalmas.|Your name.|||اسمها نالمس.|أنا اسمي نالمس.|اسمك.|||Adı Nalmes.|Benim adım Nalmes.|Adın.||
+5|2|32||My name is Nalmas.|أنا اسمي نالمس.|Benim adım Nalmes.||||1|0|0|0|0|Se sšer Nalmes.|Yej ıšer Nalmes.|Se sšer Nart.||||||||||||||||||||||
+7|2|33|Se ______ Nalmes.|||||||3|0|0|0|0|xeta|ıšer|sšer||||||||||||||||||||||
+4|3|34|||||Cыдa пцIэр?|0450||2|0|0|0|0|Xeta mır?|Sıda pšer?|Sıda?||||||||||||||||||||||
+6|3|35|Sıda pšer?|||||||3|0|0|0|0|||||||||||What is my name?|What is his name?|What is your name?|||ما اسمي أنا؟|ما اسمه هو؟|ما اسمك؟|||Benim adım ne?|Kendisinin adı nedir?|Adın ne?||
+5|3|36||What is your name ?|ما اسمك؟|Adın ne?||||2|0|0|0|0|Sıda yej ıšer?|Sıda pšer?|Sıda se sšer?||||||||||||||||||||||
+7|3|37|Sıda ______?|||||||3|0|0|0|0|Fesapşi|Xeta|Pšer||||||||||||||||||||||
+4|3|38|||||Cыдa сэ сцIэр?|0451||1|0|0|0|0|Sıda se sšer?|Sıda we pšer?|Sıda yej ıšer?||||||||||||||||||||||
+6|3|39|Sıda se sšer?|||||||1|0|0|0|0|||||||||||What is my name?|What is your name?|What is his name?|||ما اسمي أنا؟|ما اسمك؟|ما اسمه هو؟|||Benim adım ne?|Adın ne?|Kendisinin adı nedir?||
+5|3|40||What is my name?|ما اسمي أنا؟|Benim adım ne?||||3|0|0|0|0|Sıda we pšer?|Sıda se šer?|Sıda se sšer?||||||||||||||||||||||
+7|3|41|Sıda se______?|||||||2|0|0|0|0|ıšer|sšer|šer||||||||||||||||||||||
+4|3|42|||||О пцIэр Нарт.|0452||1|0|0|0|0|We pšer Nart.|Se sšer Nart.|Yej ıšer Nart.||||||||||||||||||||||
+6|3|43|We pšer Nart.|||||||2|0|0|0|0|||||||||||My name is Nart.|Your name is Nart.|Her name is Nalmas.|||أنا اسمي نارت.|أنت اسمك نارت.|اسمها نالمس.|||Benim adım Nart.|Senin adın Nart.|Adı Nalmes.||
+5|3|44||Your name is Nart.|أنت اسمك نارت.|Senin adın Nart.||||1|0|0|0|0|We pšer Nart.|Se sšer Nart.|Yej ıšer Nalmes.||||||||||||||||||||||
+7|3|45|We ______ Nart.|||||||1|0|0|0|0|pšer|šer|yej||||||||||||||||||||||
+4|3|46|||||Ежь|0453||2|0|0|0|0|We|Yej|Se||||||||||||||||||||||
+6|3|47|Yej|||||||3|0|0|0|0|||||||||||You|I|He|||أنت|أنا|هو|||Sen|Ben|Kendisi||
+5|3|48||He|هو|Kendisi.||||2|0|0|0|0|We|Yej|Se||||||||||||||||||||||
+4|4|49|||||ЫцIэ|0454||3|0|0|0|0|Pše|Sše|Iše||||||||||||||||||||||
+6|4|50|Iše|||||||1|0|0|0|0|||||||||||His name|My name|Your name|||اسمه|اسمي|اسمك|||Adı|Adım|Adın||
+5|4|51||His name|اسمه|Adı||||2|0|0|0|0|Pše|Iše|Sše||||||||||||||||||||||
+4|4|52|||||Cыдa ежь ыцIэр?|0455||2|0|0|0|0|Sıda se sšer?|Sıda yej ıšer?|Sıda we pšer?||||||||||||||||||||||
+6|4|53|Sıda yej ıšer?|||||||2|0|0|0|0|||||||||||What is my name?|What is his name?|What is your name?|||ما اسمي أنا؟|ما اسمها هي؟|ما اسمك؟|||Benim adım ne?|Kendisinin adı nedir?|Adın ne?||
+5|4|54||What is his name?|ما اسمه هو؟|Kendisinin adı nedir.||||3|0|0|0|0|Sıda se sšer?|Sıda we pšer?|Sıda yej ıšer?||||||||||||||||||||||
+7|4|55|Sıda yej ______?|||||||2|0|0|0|0|sšer|ıšer|pšer||||||||||||||||||||||
+4|4|56|||||Ежь ыцIэр Налмэс.|0456||1|0|0|0|0|Yej ıšer Nalmes.|We pšer Nart.|Se sšer Nalmes.||||||||||||||||||||||
+6|4|57|Yej ıšer Nalmes.|||||||1|0|0|0|0|||||||||||Her name is Nalmas.|Your name is Nalmas.|My name is Nalmas.|||اسمها نالمس.|اسمك نالمس.|اسمي نالمس.|||Adı Nalmes.|Adın Nalmes.|Adım Nalmes.||
+5|4|58||Her name is Nalmas.|اسمها نالمس.|Adı Nalmes.||||2|0|0|0|0|We pšer Nalmes.|Yej ıšer Nalmes.|Se sšer Nart.||||||||||||||||||||||
+7|4|59|Yej______ Nalmes.|||||||1|0|0|0|0|ıšer|sšer|mır||||||||||||||||||||||
+4|4|60|||||Мыр|0457||3|0|0|0|0|Še|Pše|Mır||||||||||||||||||||||
+6|4|61|Mır|||||||3|0|0|0|0|||||||||||Welcome|I|This|||أهلا وسهلا|أنا|هذا|||Hoş geldin|Ben|Bu||
+5|4|62||This|هذا|Bu||||1|0|0|0|0|Mır|Še|Fesapşi||||||||||||||||||||||
+4|5|63|||||Хэтa?|0458||3|0|0|0|0|Sıda?|Še?|Xeta?||||||||||||||||||||||
+5|5|64||Who?|من؟|Kim?||||1|0|0|0|0|Xeta?|Sıda?|Še?||||||||||||||||||||||
+6|5|65|Xeta?|||||||2|0|0|0|0|||||||||||What?|Who?|This?|||ماذا؟|من؟|هذا؟|||Ne?|Kim?|Bu?||
+4|5|66|||||Хэтa мыр?|0459||2|0|0|0|0|Xeta?|Xeta mır?|Sıda?||||||||||||||||||||||
+6|5|67|Xeta mır?|||||||1|0|0|0|0|||||||||||Who is this?|What?|Who?|||من هذا؟|ماذا؟|من؟|||Bu kim?|Ne?|Kim?||
+5|5|68||Who is this?|من هذا؟|Bu kim?||||1|0|0|0|0|Xeta mır?|Sıda se sšer?|Sıda pšer?||||||||||||||||||||||
+7|5|69|______ mır?|||||||3|0|0|0|0|Yej|Pšer|Xeta||||||||||||||||||||||
+4|5|70|||||Мыр Нарт.|0460||1|0|0|0|0|Mır Nart.|Fesapşi , Nalmes.|We pšer Nart.||||||||||||||||||||||
+6|5|71|Mır Nart.|||||||3|0|0|0|0|||||||||||Welcome Nalmas.|This.|This is Nart.|||أهلا وسهلا نالمس.|هذا.|هذا نارت.|||Hoş geldin Nalmes.|Bu.|Bu Nart'tır.||
+5|5|72||This is Nart.|هذا نارت.|Bu Nart'tır.||||3|0|0|0|0|Mır Nalmes.|Fesapşi , Nalmes.|Mır Nart.||||||||||||||||||||||
+7|5|73|______ Nart.|||||||1|0|0|0|0|Mır|Še|Nalmes||||||||||||||||||||||

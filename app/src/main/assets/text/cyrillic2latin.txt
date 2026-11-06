@@ -1,0 +1,1830 @@
+l	l
+А	A
+Е	Ye
+И	Yi
+К	Ḱ
+М	M
+О	We
+С	S
+Т	T
+У	U
+Ы	I
+Э	E
+ы	ı
+lэ	e
+Кl	Ć
+Ае	Aye
+Ао	Awe
+Ас	As
+Ат	At
+Ау	Aw
+Ем	Yem
+Ео	Yeo
+Ес	Yes
+Ет	Yet
+Еу	Yew
+Ио	Yiwe
+Ис	Yis
+Иэ	Yie
+Ко	Ḱo
+Ку	Ḱu
+Ма	Ma
+Ме	Mé
+Ми	Mi
+Мо	Mo
+Мс	Ms
+Му	Mu'
+Мы	Mı
+Мэ	Me
+Ос	Wes
+Оу	Weu'
+Оэ	Wee
+Са	Sa
+Се	Sé
+Си	Si
+Со	So
+Су	Su'
+Сы	Sı
+Сэ	Se
+Те	Té
+Уэ	We
+Шы	Şı
+Щэ	Şe
+Ыс	Is
+Ыэ	Ie
+Эс	Es
+Аса	Asa
+АӀо	AӀo
+Есы	Yesı
+Иса	Yisa
+Исы	Yisı
+Мые	Mıye
+Мыи	Mıyı
+Мэе	Meye
+Мэо	Mewe
+Мэс	Mes
+Мэу	Mew
+Осы	Wesı
+Оуи	Weui
+Оуэ	Wewe
+Сам	Sam
+Сас	Sas
+Сие	Sié
+Сим	Sim
+Сис	Sis
+Сыд	Sıd
+Сыс	Sıs
+Тат	Tat
+Тео	Tyewe
+Тет	Tét
+ТиӀ	Tyiı'
+Тэт	Tet
+Уае	Wıaye
+Уаи	Wıay
+Уас	Wıas
+Уау	Wıaw
+Уаы	Wıaı
+Уес	Ués
+Уис	Uis
+Унэ	Wıne
+Усэ	Wıse
+Уым	Wıım
+Уэс	Wes
+Ыса	Isa
+Ысы	Isı
+lанэ	ane
+Еджэ	Yece
+Иэуэ	Yiewe
+Коцы	Ḱośı
+Мамэ	Mame
+Масы	Ması
+Месы	Mésı
+Мысэ	Mıse
+Мэсы	Mesı
+Окуо	Weḱuo
+Оуои	Weuoi
+Санэ	Sane
+Сасэ	Sase
+Сесы	Sésı
+Симы	Simı
+Симэ	Sime
+Сэса	Sesa
+Тамэ	Tame
+Тати	Tati
+Тэку	Teḱu
+Тэти	Teti
+Уасэ	Wıase
+Уемэ	Uéme
+Уысэ	Wııse
+Уэсэ	Wese
+Уэуи	Weui
+Аслъан	Asĺan
+Тыгъужъ	Tığuj
+Иныжъ	Yinıj
+Коамэ	Ḱoame
+Куамэ	Ḱoáme
+Мышъэ	Mışe
+Мэкуо	Meḱuo
+Тэкуо	Teḱuo
+ТыӀут	TıUt
+Уэкуо	Weḱuo
+Еlуатэ	Yeuate
+l	l
+А	A
+Е	Ye
+К	Ḱ
+М	M
+С	S
+Т	T
+Ш	Ş
+Щ	Ş
+Э	E
+Кэ	Ḱe
+Ше	Şé
+Шу	Şu'
+Шы	Şı
+Шэ	Şe
+Ща	Şa
+Ще	Şé
+Щи	Şi
+Щы	Şı
+Щэ	Şe
+lтэ	lte
+Аlо	Ao
+Аlу	Au
+Атэ	Ate
+АӀо	AӀo
+Ещы	Yeşı
+Ещэ	Yeşe
+Иот	Yiwet
+Таl	Tal
+Теl	Tél
+Тиl	Til
+Сыд	Sıd
+Тэl	Tel
+Тао	Tawe
+Тат	Tat
+Тео	Tyewe
+Тет	Tét
+Уиl	Uil
+ТиӀ	Tyiı'
+УиӀ	Uyiı'
+Шао	Şawe
+Шау	Şaw
+Щеl	Şél
+Шеу	Şéw
+Шоу	Şou'
+ЩыI	ŞıI
+Щыl	Şıl
+Шыу	Şıw
+Шэо	Şewe
+Шэщ	Şeş
+Щит	Şit
+Щыс	Şıs
+Щыт	Şıt
+Щыщ	Şış
+Щэщ	Şeş
+lанэ	ane
+lатэ	ate
+Тlот	Ṫot
+Атеl	Atél
+Иэщэ	Yieşe
+Коцы	Ḱośı
+Окуо	Weḱuo
+Санэ	Sane
+Сашы	Saşı
+Теlэ	Tée
+Тиео	Tiyewe
+Тэко	Teḱo
+Тэку	Teḱu
+Тэти	Teti
+Уатэ	Wıate
+Утет	Wıtét
+ШаIо	Şao
+Шаlо	Şao
+Шако	Şaḱo
+Шаку	Şaḱu
+Шасо	Şaso
+Шасы	Şası
+Шэсы	Şesı
+Шэсэ	Şese
+Щатэ	Şate
+Щысэ	Şıse
+Щыщэ	Şışe
+Ӏатэ	Ate
+Иlуатэ	Yiı'uate
+Тыгъужъ	Tığuj
+Атеlэ	Atée
+Атиlэ	Atie
+АтеӀэ	AtéE
+Иныжъ	Yinıj
+Мышъэ	Mışe
+ЕӀуатэ	YeUate
+Тыlот	Tıot
+Тыlут	Tıut
+Ттеlэ	Ttée
+Тэкуо	Teḱuo
+ТыӀут	TıUt
+Татеlэ	Tatée
+ТатеӀэ	TatéE
+Пцэжъый	Pśejiy
+Сэтанэй	Setaney
+Сэтэнай	Setenay
+Е	Ye
+И	Yi
+Н	N
+П	P
+Р	R
+Ы	I
+Я	Ya
+ЯI	YaI
+Яl	Yal
+Ее	Yeé
+Ей	Yey
+Ие	Yié
+Ий	Yiy
+Йи	Yiy
+Ой	Wey
+Шк	Şḱ
+Ыи	Iyı
+Яа	Yaa
+Яе	Yaé
+Яй	Yay
+Ят	Yat
+Яш	Yaş
+Iой	oy
+lой	oy
+lуй	uy
+Аао	Aawe
+Апэ	Ape
+Вай	Vay
+Еаl	Yeal
+Еат	Yeat
+Еуя	Yewya
+Ещэ	Yeşe
+Иаl	Yial
+Нсы	Nsı
+Оой	Wewey
+Оуй	Weuy
+Оуя	Weuya
+Псы	Psı
+Сае	Saye
+Сай	Say
+Сат	Sat
+Сян	Syan
+Сят	Syat
+Уае	Wıaye
+Уао	Wıawe
+Уаш	Wıaş
+Уоя	Wıoya
+Ууй	Wıwy
+Яат	Yaat
+Янэ	Yane
+Яты	Yatı
+Ятэ	Yate
+Ящэ	Yaşe
+Iапэ	ape
+lапэ	ape
+Етэш	Yeteş
+Иысэ	Yiıse
+Напэ	Nape
+Нарт	Nart
+Ныпс	Nıps
+Нырт	Nırt
+Нысэ	Nıse
+Нэпс	Neps
+ПаIо	Pao
+Паlо	Pao
+Оуя?	Weuya?
+Оуиа	Weuyia
+Раlо	Rao
+Реты	Rétı
+Риты	Ritı
+Сеиэ	Séie
+Синэ	Sine
+Ятlэ	Yaṫe
+Янэш	Yaneş
+Ятэш	Yateş
+Нарыс	Narıs
+Насып	Nasıp
+Насыр	Nasır
+Нэрыс	Nerıs
+Нэщан	Neşan
+Нэщэн	Neşen
+Псынэ	Psıne
+Пщынэ	Pşıne
+Пыжъы	Pıjı
+Пэрыт	Perıt
+Рсынэ	Rsıne
+Рщынэ	Rşıne
+Рэрыт	Rerıt
+Сысэй	Sısey
+Сэсый	Sesiy
+Тытэй	Tıtey
+Тэты?	Tetı?
+Тэтый	Tetiy
+Натрыф	Natrıf
+Саосэр	Saweser
+Саусэр	Sawser
+Сэсыя?	Sesıya?
+Хъурай	Ḣuray
+Д	D
+З	Z
+П	P
+С	S
+Х	X
+Ц	Ś
+Ч	Ç
+я	ya
+Зы	Zı
+Хы	Xı
+Цу	Çü
+Апч	Apç
+Зао	Zawe
+Зау	Zaw
+Зиз	Ziz
+Маз	Maz
+Мзэ	Mze
+Мэз	Mez
+Наз	Naz
+Нэз	Nez
+Пцэ	Pśe
+Пчэ	Pçe
+Хзэ	Xze
+Чан	Çan
+Чыз	Çız
+Чэн	Çen
+Шэз	Şez
+Эао	Eawe
+lапч	apç
+Ванэ	Vane
+Етхы	Yetxı
+Мазэ	Maze
+Назэ	Naze
+Отхы	Wetxı
+Отхэ	Wetxe
+Пчэн	Pçen
+Рчэн	Rçen
+Хасэ	Xase
+Хатэ	Xate
+Хэса	Xesa
+Хэтэ	Xete
+Цапэ	Śape
+Цацэ	Śaśe
+ЧыIу	Çıu
+Чыlо	Çıo
+Чыlу	Çıu
+Цызэ	Śıze
+Цыпэ	Śıpe
+Чыпэ	Çıpe
+Чэмы	Çemı
+Чэщы	Çeşı
+Шэмы	Şemı
+Шэщы	Şeşı
+Адыге	Adıǵé
+Зырыз	Zırız
+Иэтхы	Yietxı
+Мазэх	Mazex
+Матхэ	Matxe
+Мэзах	Mezax
+Мэтхэ	Metxe
+Напцэ	Napśe
+Напчэ	Napçe
+Псыцу	Psıçü
+Сарыз	Sarız
+Сатхэ	Satxe
+Семаз	Sémaz
+Симаз	Simaz
+Сэтхэ	Setxe
+Тараз	Taraz
+Тэрэз	Terez
+Тэтхы	Tetxı
+Тэтхэ	Tetxe
+Хеуты	Xéwtı
+Хиуты	Xiwtı
+Цумпэ	Çümpe
+Цыгъо	Śığo
+Чэркеся	Çerḱésya
+Эарэз	Earez
+Псичэт	Psiçet
+Псычэт	Psıçet
+Лэныстэ	Ienıste
+Б	B
+Г	Ǵ
+Д	D
+З	Z
+Й	Y
+Л	I
+П	P
+С	S
+Ц	Ś
+Ч	Ç
+й	y
+Дэ	De
+Зы	Zı
+Лы	Iı
+Хы	Xı
+Цо	Çö
+Цу	Çü
+Баи	Bay
+Бай	Bay
+Бащ	Baş
+Бгы	Bǵı
+Бзэ	Bze
+Блэ	Ble
+Бын	Bın
+Бэз	Bez
+Бэщ	Beş
+Дад	Dad
+Дал	Dal
+Дас	Das
+Дыс	Dıs
+Дэс	Des
+Лащ	Iaş
+Лэс	Ies
+Лэщ	Ieş
+Мыл	Mıl
+Нал	Nal
+Нэл	Nel
+Пцэ	Pśe
+Пын	Pın
+Сад	Sad
+Сыд	Sıd
+Сэд	Sed
+Шыд	Şıd
+Лlащ	Ĺ'aş
+Бгъы	Bğı
+Бзыу	Bzıw
+Бэыу	Beıw
+Гыны	Ǵını
+Гырз	Ǵırz
+Дадэ	Dade
+Дамэ	Dame
+Данэ	Dane
+Дахэ	Daxe
+Дыпс	Dıps
+Дыхэ	Dıxe
+Дэпс	Deps
+Лъащ	Ĺaş
+Лэпс	Ieps
+Лэрс	Iers
+Мадэ	Made
+Мапэ	Mape
+Мыды	Mıdı
+Мылы	Mılı
+Мэды	Medı
+Мэдэ	Mede
+Мэлы	Melı
+Мэсы	Mesı
+Одан	Wedan
+Тыдэ	Tıde
+Удан	Wıdan
+Цапэ	Śape
+Цацэ	Śaśe
+Чыlу	Çıu
+Цыпэ	Śıpe
+Чыдэ	Çıde
+Чыла	Çıla
+Чылэ	Çıle
+Чэлэ	Çele
+Ятlэ	Yaṫe
+Iудан	udan
+lудан	udan
+lутан	utan
+Бирсир	Birsir
+Бырсыр	Bırsır
+Гупшыс	Gupşıs
+Дэныст	Denıst
+Дэшхын	Deşxın
+Дэщхын	Deşxın
+Дэщхьн	Deşhn
+Дэщхэн	Deşxen
+Адыгэ	Adıǵe
+Батыр	Batır
+Быгэн	Bıǵen
+Бэгын	Beǵın
+Бэтыр	Betır
+Гупсэ	Gupse
+Дынэф	Dınef
+Дэнэл	Denel
+Дэнэф	Denef
+Ланлэ	Ianle
+Лэнэф	Ienef
+Напцэ	Napśe
+Псыцо	Psıçö
+Псыцу	Psıçü
+Тхыдэ	Txıde
+Тхытэ	Txıte
+Тхэды	Txedı
+Цумпэ	Çümpe
+Цыгъо	Śığo
+Щабзэ	Şabze
+Лэныст	Ienıst
+Лэщхын	Ieşxın
+Надмэс	Nadmes
+Налмас	Nalmas
+Налмэс	Nalmes
+Нэлмэс	Nelmes
+Дэныстэ	Denıste
+Адыгаер	Adıǵayer
+Къашыкъ	Kaşık
+Къутамэ	Kutame
+Пцэжъый	Pśejiy
+Ратакъо	Ratako
+Витамин	Vitamin
+lэтакъэ	etake
+Кlуачlэ	Quáće
+Б	B
+В	V
+Ж	J
+Ф	F
+Кl	Ć
+Гу	Gu
+Гъ	Ğ
+Дж	C
+Жэ	Je
+Къ	K
+lоф	of
+lуф	uf
+Кlэ	Će
+Аоф	Awef
+Баз	Baz
+Бгы	Bǵı
+Ваз	Vaz
+Жын	Jın
+Фаи	Fay
+Фай	Fay
+Iофы	ofı
+Бжез	Bjéz
+Бжиз	Bjiz
+Биза	Biza
+Виза	Viza
+Гыны	Ǵını
+Гырз	Ǵırz
+Жанэ	Jane
+Жъын	Jın
+Жэна	Jena
+Зафэ	Zafe
+Макэ	Maḱe
+Фабэ	Fabe
+Фаеп	Fayep
+Фаер	Fayer
+Фапэ	Fape
+Фарэ	Fare
+Хафэ	Xafe
+Джэмышх	Cemışx
+Атакъэ	Atake
+Гопшыс	Gopşıs
+Гупшыс	Gupşıs
+Гъэмаф	Ğemaf
+Жъэмаф	Jemaf
+ЖэрыIу	Jerıu
+Жэрыlо	Jerıo
+Жэрыlу	Jerıu
+Иатрыф	Yiatrıf
+Адыгэ	Adıǵe
+Бирус	Birus
+Бэгын	Beǵın
+Вирус	Virus
+Гогон	Gogon
+Гопсэ	Gopse
+Гугун	Gugun
+Гупсэ	Gupse
+Гуыны	Guını
+Гъырз	Ğırz
+Жабзэ	Jabze
+Жэбзэ	Jebze
+Жэмаи	Jemay
+Жэмай	Jemay
+Жэмаф	Jemaf
+Зэфэс	Zefes
+Копкъ	Ḱopk
+КъэIу	Keu
+Къамэ	Kame
+Макъэ	Make
+Фыжьы	Fıjı
+Хьафэ	Hafe
+Цыгъо	Śığo
+Ээфэс	Eefes
+Къашык	Kaşıḱ
+Къысэт	Kıset
+Кыысэт	Ḱııset
+Натрыф	Natrıf
+Адыгаер	Adıǵayer
+Къашыкъ	Kaşık
+Къотамэ	Kotame
+Къуаджэ	Kuace
+Къуажъэ	Kuaje
+Къутамэ	Kutame
+Ратакъо	Ratako
+Гъуанджэ	Ğuance
+КIэнкIэ	Ćenće
+Хэгъэгу	Xeğegu
+Кlанкlэ	Ćanće
+Кlодыгъ	Qodığ
+Кlуачlэ	Quáće
+Кlэнкlэ	Ćenće
+Мэджэгу	Mecegu
+Мэждэгу	Mejdegu
+Мэтакlэ	Metaće
+Кl	Ć
+Гъ	Ğ
+Дж	C
+Къ	K
+Кlо	Qo
+Кlу	Qu
+Кlэ	Će
+Гъу	Ğu
+Джу	Cu'
+Ежэ	Yeje
+Кlор	Qor
+Кlур	Qur
+Гусэ	Guse
+Джае	Caye
+Джыр	Cır
+Еджэ	Yece
+Жанэ	Jane
+Жъыр	Jır
+Мако	Maḱo
+Мард	Mard
+Кlапсэ	Ćapse
+Кlэпсы	Ćepsı
+Адыгабзэкl	Adıǵabzeć
+Гъунджэ	Ğunce
+Джэмышх	Cemışx
+Атакъэ	Atake
+Гъатхэ	Ğatxe
+Гъуанэ	Ğuane
+Гъэмаф	Ğemaf
+Егыкlы	Yeǵıćı
+Кlако	Ćaḱo
+Гатхэ	Ǵatxe
+Гъунэ	Ğune
+Гъусэ	Ğuse
+Даджэ	Dace
+Джадэ	Cade
+Джаиэ	Cayıe
+Джанэ	Cane
+Дэгъо	Değo
+Дэгъу	Değu
+Какlо	Ḱaqo
+Копкъ	Ḱopk
+Къэlу	Keu
+Къамэ	Kame
+Къопк	Kopḱ
+МакIо	Maqo
+Макlо	Maqo
+Магъы	Mağı
+Макъэ	Make
+Мардж	Marc
+Мэгъы	Meğı
+Окlуа	Wequá
+Унагу	Wınagu
+ШакIо	Şaqo
+Шакlо	Şaqo
+Шакlу	Şaqu
+Кодыгъ	Ḱodığ
+Къысэт	Kıset
+Къэпсы	Kepsı
+МышкIу	Mışqu
+Мышкlу	Mışqu
+Мышкъу	Mışku
+МэткIу	Metqu
+Мэткlу	Metqu
+Мэтчlу	Metću'
+МэтакI	Metać
+Мэтакl	Metać
+Адыгабзэкlи	Adıǵabzećiy
+Секlас	Séćas
+СикIас	Sićas
+Сикlас	Sićas
+Унагъо	Wınağo
+Уэкlуа	Wequá
+Егъыкlы	Yeğıćı
+Патакъо	Patako
+Хэгъэгъу	Xeğeğu
+Къолъыр	Koĺır
+Къолэжъ	Kolej
+Гулlуагъо	Guĺ'uağo
+Къэплъан	Kepĺan
+Шlодэхэн	Şü'edexen
+Шlошэгъэ	Şü'eşeğe
+Кэплъан	Ḱepĺan
+Пшъашъэ	Pşaşe
+Сэгозажъу	Segozajü
+Шlудэхэн	Şü'ıdexen
+Сэгузажъо	Seguzajö
+Шlэныгъэ	Ş'enığe
+Тхьакlумкlыхь	Thaqumćıh
+Тхьакlумкlэхь	Thaqumćeh
+Гъэгушlо	Ğeguşü'e
+Жъажъэу	Jajew
+Жъапхъэ	Japḣe
+lаслъан	asĺan
+Жъуагъо	Jüağo
+Жъуагъэ	Jüağe
+Жъутэдж	Jütec
+Жьыбгъэ	Jıbğe
+Егъашъох	Yeğaşöx
+Цlодэхэн	Šodexen
+Тхъэжьхо	Tḣejxo
+Лъошъыр	Ĺoşır
+Тхьамыкl	Thamıć
+Тхьаркъо	Tharko
+Тхьаркъу	Tharku
+Тхъэжьхэу	Tḣejxew
+lофшаныр	ofşanır
+lофщэныр	ofşenır
+Хъупгъэ	Ḣupğe
+Хъупхъэ	Ḣupḣe
+Хылыжъу	Xılıjü
+Жъонакlо	Jönaqo
+lэплъэкl	epĺeć
+Шlобзын	Şü'ebzın
+Шlыхьаф	Ş'ıhaf
+Шlэныгъ	Ş'enığ
+Шlэнэгъ	Ş'eneğ
+lуфшlэн	ufş'en
+lушъхьэ	uşhe
+Шlушlэгъэ	Şü'ış'eğe
+Жъуедэlу	Jüédeu
+Жъунакlу	Jünaqu
+lэплэкl	epleć
+Хъолэжъэ	Ḣoleje
+Егъэгукlо	Yeğeguqo
+Егъэгушlо	Yeğeguşü'e
+Мэхьакъо	Mehako
+Мэхьакъу	Mehaku
+Кlобзын	Qobzın
+Мэлахъо	Melaḣo
+Мэпахъо	Mepaḣo
+Ж	J
+Ш	Ş
+Щ	Ş
+Кl	Ć
+Чl	Ć
+Шl	Ş'
+Гъ	Ğ
+Жу	Ju'
+Жъ	J
+Жь	J
+Лъ	Ĺ
+Лы	Iı
+Хъ	Ḣ
+Хь	H
+Шу	Şu'
+Шъ	Ş
+Шlо	Şü'e
+Шlу	Şü'ı
+Ежъ	Yej
+Ежь	Yej
+Жун	Jun
+Жъо	Jö
+Жъу	Jü
+Жьу	Ju'
+Лъы	Ĺı
+Лъэ	Ĺe
+Пхэ	Pxe
+Уае	Wıaye
+Фае	Faye
+Хъы	Ḣı
+Хьэ	He
+Шъо	Şö
+Шъу	Şü
+Шъэ	Şe
+Шэх	Şex
+Щао	Şawe
+Гушlагъо	Guş'ağo
+Шlаг	Ş'aǵ
+Шlых	Ş'ıx
+Шlэх	Ş'ex
+Дитф	Ditf
+Екlы	Yećı
+Елlы	Yeĺ'ı
+Ечlы	Yećı
+Ешlы	Yeş'ı
+Жоку	Joḱu
+Жъон	Jön
+Жъун	Jün
+Жьау	Jaw
+Жьиф	Jif
+Жьыф	Jıf
+Пшlы	Pş'ı
+Пхъэ	Pḣe
+Пхьэ	Phe
+Хъоф	Ḣof
+Чъоф	Çof
+Шагъ	Şağ
+Шанэ	Şane
+Шъао	Şawe
+Шъау	Şaw
+Шъоф	Şöf
+Шъун	Şün
+Шъэф	Şef
+Щхьэ	Şhe
+Тадэджы	Tadecı
+Тадэжьы	Tadejı
+Гузажъо	Guzajö
+Лlочын	Ĺ'oçın
+Есэгъашох	Yeseğaşox
+Ишъубыт	Yişübıt
+Чlуагъ	Ćuağ
+Шlагъэ	Ş'ağe
+Шlоцын	Şü'eśın
+Шlочыи	Şü'eçıyı
+Шlочын	Şü'eçın
+Шlуцlэ	Şü'ıše
+Шlуагъ	Şü'ıağ
+Шlуанэ	Şü'ıane
+Лlобзын	Ĺ'obzın
+Чlодэхэн	Ćodexen
+Лlыхьаф	Ĺ'ıhaf
+Шъуедэlу	Şüédeu
+Тхъагъо	Tḣağo
+Тхьамык	Thamıḱ
+Тхьарко	Tharḱo
+Аслъан	Asĺan
+Жъогъошlу	Jöğoşü'ı
+Гъжъэй	Ğjey
+Жъугъушlу	Jüğuşü'ı
+lофшlэныр	ofş'enır
+Жъажэу	Jajew
+Жъгъэй	Jğey
+Жъохэр	Jöxer
+Гушlуагъо	Guşü'ıağo
+Хьалыгъу	Halığu
+Хьалыжъу	Halıjü
+Иахътэ	Yiaḣte
+Кlанэ	Ćane
+Кlыкl	Ćıć
+Кlышl	Ćış'
+Чlышl	Ćış'
+Шlанэ	Ş'ane
+Шlуаг	Şü'ıaǵ
+Шlуан	Şü'ıan
+Шlыкl	Ş'ıć
+Шlэхэ	Ş'exe
+Гушlо	Guşü'e
+Джанэ	Cane
+Джынэ	Cıne
+Дыкъэ	Dıke
+Дылъэ	Dıĺe
+Дышъэ	Dışe
+Еплъы	Yepĺı
+Еплъэ	Yepĺe
+Жъитф	Jitf
+Жъоку	Jöḱu
+Жъуае	J��aye
+Къехы	Kéxı
+Къоку	Koḱu
+Къхьэ	Khe
+Лежьэ	Iéje
+Лъаго	Ĺago
+Лъагэ	Ĺaǵe
+Лышъэ	Iışe
+Лэшэу	Ieşew
+Мажъэ	Maje
+Нажъэ	Naje
+Пшашэ	Pşaşe
+Тхапэ	Txape
+Тхылъ	Txıĺ
+Тхыль	Txıl
+Фыжъы	Fıjı
+Фыжьы	Fıjı
+Хъурй	Ḣury
+Шуагъ	Şuağ
+Шуанэ	Şuane
+Шъинэ	Şine
+Шъитф	Şitf
+Шъохэ	Şöxe
+Шъуае	Şüaye
+Шъудж	Şüc
+Шъхъэ	Şḣe
+Шъхьэ	Şhe
+Шъынэ	Şıne
+Шъэтф	Şetf
+Чэтжъый	Çetjiy
+Чэтхъый	Çetḣiy
+Къехыы	Kéxıı
+Къехьы	Kéhı
+Къохэр	Koxer
+Пкlажъэ	Pćaje
+Пкlалъэ	Pćaĺe
+Пкlахъэ	Pćaḣe
+Пкlашъэ	Pćaşe
+Лъакъо	Ĺako
+Лъежьэ	Ĺéje
+Лъэшэу	Ĺeşew
+Льэшэу	Ieşew
+Мэгъые	Meğıye
+Мэхъые	Meḣıye
+Нанэжъ	Nanej
+Нэнэжъ	Nenej
+Ишъуубыт	Yişüubıt
+Тхъаго	Tḣago
+Тхьапэ	Thape
+Тхьарэ	Thare
+Уахътэ	Wıaḣte
+Уахьтэ	Wıahte
+Халыгу	Xalıgu
+Хъакlэ	Ḣaće
+Хъагъэ	Ḣağe
+Хъохъу	Ḣoḣu
+Хъурай	Ḣuray
+Хъухъо	Ḣuḣo
+Хьакlэ	Haće
+Зэжъугъашlэ	Zejüğaş'e
+Шобзын	Şobzın
+Шутэдж	Şutec
+Шъагъэ	Şağe
+Шъашъэ	Şaşe
+Шъохэр	Şöxer
+Шъуанэ	Şüane
+Шъуедэ	Şüéde
+Шъуялъ	Şüyaĺ
+Шыхьаф	Şıhaf
+Есэгъашъох	Yeseğaşöx
+Лlэныгъэ	Ĺ'enığe
+Шушэгъэ	Şuşeğe
+бгъэдж	bğec
+бгъэжъ	bğej
+Икъуубыт	Yikuubıt
+Аушъхьэ	Awşhe
+Шъожъыр	Şöjır
+Шъолъыр	Şöĺır
+Шъудэlу	Şüdeu
+Шъутэдж	Şütec
+Шъуубыт	Şüubıt
+Шъыхьаф	Şıhaf
+Къулъхьэ	Kuĺhe
+Къушъхьэ	Kuşhe
+Пуагъэр	Puağer
+Къончlэ	Konće
+Къуанчэ	Kuançe
+Тизэкlолl	Tizeqoĺ'
+Учlыныгъэ	Wıćınığe
+Пэтехъу	Petéḣu
+Тlурыту	Ṫurıtu'
+Мэкlэцlых	Mećešıx
+Чlэрыlу	Ćerıu
+Мэкlэцlы	Mećešı
+Къэлапчъэ	Kelapçe
+Пlэтlехъу	Ṕeṫéḣu
+Къалэпчъэ	Kalepçe
+Улlыныгъэ	Wıĺ'ınığe
+Бэдзэры	Beźerı
+Бэдэрым	Bederım
+Къатежъэу	Katéjew
+Къатечъэу	Katéçew
+бэдзэуогъу	beźewoğu
+Тидзэкlол	Tiźeqol
+Чъыгыуlу	Çıǵıwıu
+Чъыгышхо	Çıǵışxo
+Хьандзу	Hanźu
+Хьанжъу	Hanjü
+Ечъэлагъ	Yeçelağ
+Пlэшъхьаг	Ṕeşhaǵ
+Жъэлапкъ	Jelapk
+Тидэкlолl	Tideqoĺ'
+Пlуагъэр	Ṕuağer
+Зэрэпlо	Zereṕo
+Пlакlор	Ṕaqor
+Мэкэцых	Meḱeśıx
+Пlоаблэ	Ṕoable
+Пlогъэр	Ṕoğer
+Пlуаблэ	Ṕuable
+Пlуабнэ	Ṕuabne
+Пlуагэр	Ṕuaǵer
+Пlэкlор	Ṕeqor
+Пlэкlур	Ṕequr
+бэджэогъу	beceweğu
+бэдзэогъу	beźeweğu
+Пlэтехъо	Ṕetéḣo
+Пlэтехъу	Ṕetéḣu
+Ц	Ś
+Кl	Ć
+Лl	Ĺ'
+Пl	Ṕ
+Тl	Ṫ
+Цl	Š
+Чl	Ć
+Шl	Ş'
+Дж	C
+Дз	Ź
+Жъ	J
+Зд	Zd
+Зу	Zu'
+Къ	K
+Лъ	Ĺ
+Чъ	Ç
+Лlы	Ĺ'ı
+Пlэ	Ṕe
+Тlы	Ṫı
+Чlы	Ćı
+Чlэ	Će
+Джу	Cu'
+Дзн	Źn
+Дзу	Źu
+Дзэ	Źe
+Дын	Dın
+Езы	Yezı
+Жъу	Jü
+Ипl	Yiṕ
+Ипэ	Yipe
+Лыс	Iıs
+Плl	Pĺ'
+Плы	Plı
+Сцэ	Sśe
+Ятэ	Yate
+Eпlэ	Éṕe
+lапл	apl
+Лlыж	Ĺ'ıj
+Лlыс	Ĺ'ıs
+Лlэт	Ĺ'et
+Тlпщ	Ṫpş
+Тlыс	Ṫıs
+Тlэс	Ṫes
+Цlыф	Šıf
+Чlыт	Ćıt
+Чlэт	Ćet
+Аплl	Apĺ'
+Бадз	Baź
+Базэ	Baze
+Дзын	Źın
+Дзэн	Źen
+Едзы	Yeźı
+Едзэ	Yeźe
+Ипlэ	Yiṕe
+Лпlы	Iṕı
+Къый	Kiy
+Лыжъ	Iıj
+Натэ	Nate
+Плlы	Pĺ'ı
+Слlэ	Sĺ'e
+Сцlэ	Sše
+Тидз	Tiź
+Тизэ	Tize
+Чыlэ	Çıe
+Цыфы	Śıfı
+Чъые	Çıye
+Чъый	Çiy
+Чъэй	Çey
+Чыгу	Çıgu
+Чэлъ	Çeĺ
+Чэпы	Çepı
+Шуцэ	Şuśe
+Ятlэ	Yaṫe
+Ячlэ	Yaće
+Ечъэлlагъ	Yeçeĺ'ağ
+Чыхъумбый	Çıḣumbiy
+Ечъэлъагъ	Yeçeĺağ
+Кlыгъэ	Ćığe
+lаплl	apĺ'
+lаплъ	apĺ
+Зэрэпlорэр	Zereṕorer
+Зэрэпlурэр	Zereṕurer
+Лlыгъэ	Ĺ'ığe
+Пlыгъэ	Ṕığe
+Пlэшъхьагъ	Ṕeşhağ
+Гъэпонк	Ğeponḱ
+Цlыкlу	Šıqu
+Цlыргъ	Šırğ
+Чlахьы	Ćahı
+Чlахьэ	Ćahe
+Чlыгъэ	Ćığe
+Чlысыс	Ćısıs
+Чlысэс	Ćıses
+Чlэхьэ	Ćehe
+Пцlашхъу	Pšaşḣu
+Шlуцlэ	Şü'ıše
+Иэтlанэ	Yieṫane
+Иэтlатэ	Yieṫate
+Турытlу	Turıṫu
+Лlуаблэ	Ĺ'uable
+Тlурытlу	Ṫurıṫu
+Тlурэтlу	Ṫureṫu
+Уцlыныгъэ	Wıšınığe
+Чъэлапкъэ	Çelapke
+Етlаиэ	Yeṫayıe
+Етlанэ	Yeṫane
+Етlатэ	Yeṫate
+Етатlэ	Yetaṫe
+Жъагъэ	Jağe
+Чъыгыlу	Çıǵıu
+Чъыгышо	Çıǵışo
+Чlыгышхо	Ćıǵışxo
+Кlэлъ	Ćeĺ
+Лlыжъ	Ĺ'ıj
+Пlыжъ	Ṕıj
+Тlупс	Ṫups
+Тlупщ	Ṫupş
+Тlурщ	Ṫurş
+Чlыхъумб	Ćıḣumb
+Цlыгу	Šıgu
+Цlыку	Šıḱu
+Цlыфы	Šıfı
+Цlэру	Šeru'
+Чlыlэ	Ćıe
+Чlыгу	Ćıgu
+Чlысы	Ćısı
+Чlыфы	Ćıfı
+Чlэлl	Ćeĺ'
+Чlэтl	Ćeṫ
+Чlэлъ	Ćeĺ
+Чlэпы	Ćepı
+Шlуцэ	Şü'ıśe
+Бадзэ	Baźe
+Етанэ	Yetane
+Жъыlэ	Jıe
+Иатlэ	Yiaṫe
+Иэдзы	Yieźı
+Етlатlэ	Yeṫaṫe
+Етlыпгу	Yeṫıpgu
+Етlырго	Yeṫırgo
+Етlыргу	Yeṫırgu
+Натlэ	Naṫe
+Нашlэ	Naş'e
+Нэтlэ	Neṫe
+Плlан	Pĺ'an
+Пашху	Paşxu'
+Планэ	Plane
+Силlэ	Siĺ'e
+Тедзэ	Téźe
+Тидзэ	Tiźe
+Улlын	Wıĺ'ın
+Улlып	Wıĺ'ıp
+Улlэм	Wıĺ'em
+Улlэн	Wıĺ'en
+Учlэн	Wıćen
+Улъын	Wıĺın
+Улъэн	Wıĺen
+Упкlэ	Wıpće
+Уппlэ	Wıpṕe
+Упцlэ	Wıpše
+Упчlэ	Wıpće
+Цыкlу	Śıqu
+Чахьэ	Çahe
+Чъыlэ	Çıe
+Чыкlу	Çıqu
+Чъыгу	Çıgu
+Чъыгы	Çıǵı
+Чъэпы	Çepı
+Шуцlэ	Şuše
+Шъэпы	Şepı
+Тидзэкlолl	Tiźeqoĺ'
+Лъагъэ	Ĺağe
+Лlэшъхьагъ	Ĺ'eşhağ
+Плlанэ	Pĺ'ane
+Ечlыргу	Yećırgu
+Ппlанэ	Pṕane
+Пцашху	Pśaşxu'
+Пэкlор	Peqor
+Чlыхъумбый	Ćıḣumbiy
+Хьанду	Handu'
+Хьанзу	Hanzu'
+Цэрыlу	Śerıu
+Пцlахъу	Pšaḣu
+бэдэогъу	bedeweğu
+Чъагъэ	Çağe
+Чъыгыу	Çıǵıw
+Чъысыс	Çısıs
+Шъагъэ	Şağe
+Бэдзэрым	Beźerım
+Бадзэрым	Baźerım
+Къатечъу	Katéçu'
+Къатечэу	Katéçew
+Зэрэlорэр	Zereorer
+Уцыныгъэ	Wıśınığe
+Гъэкlонкl	Ğeqonć
+Гъэпlонкl	Ğeṕonć
+Гъэпlункl	Ğeṕunć
+Цlэрыlу	Šerıu
+Шъыгышх	Şıǵışx
+Кэкlэцlых	Ḱećešıx
+Ечlэлlагъ	Yećeĺ'ağ
+Къуанцlэ	Kuanše
+Къуанчlэ	Kuanće
+Къолэжъ	Kolej
+Пцэжъый	Pśejiy
+Жъапхъэ	Japḣe
+Жъуагъо	Jüağo
+Жъуагъэ	Jüağe
+Жьыбгъэ	Jıbğe
+Витамин	Vitamin
+Кlуачlэ	Quáće
+lэ	e
+Гу	Gu
+Дэ	De
+Жэ	Je
+Зы	Zı
+Лы	Iı
+Хы	Xı
+Цу	Çü
+Шы	Şı
+Щэ	Şe
+Кlэ	Će
+Лlы	Ĺ'ı
+Пlэ	Ṕe
+Тlы	Ṫı
+Чlы	Ćı
+Чlэ	Će
+Блэ	Ble
+Дзэ	Źe
+Осы	Wesı
+Сыд	Sıd
+Унэ	Wıne
+Хьэ	He
+Шъэ	Şe
+lанэ	ane
+Еджэ	Yece
+Коцы	Ḱośı
+Пшlы	Pş'ı
+Санэ	Sane
+Цапэ	Śape
+Цацэ	Śaśe
+Ятlэ	Yaṫe
+Цlыргъ	Šırğ
+Шlуцlэ	Şü'ıše
+Джэмышх	Cemışx
+Аслъан	Asĺan
+Тыгъужъ	Tığuj
+Гъэмаф	Ğemaf
+Иныжъ	Yinıj
+Къамэ	Kame
+Мышъэ	Mışe
+Пыжъы	Pıjı
+Фыжьы	Fıjı
+Цумпэ	Çümpe
+Цыгъо	Śığo
+Чъыгы	Çıǵı
+Чэркеся	Çerḱésya
+Лъакъо	Ĺako
+Натрыф	Natrıf
+Хъагъэ	Ḣağe
+Хъурай	Ḣuray
+Адыгаер	Adıǵayer
+Шъуялъ	Şüyaĺ
+Мыр Нарт.	Mır Nart.
+Cыдa о ______?	Sıda we ______?
+Фэсапщи	Fesapşi
+Мыр Налмэс.	Mır Nalmes.
+Сэ сцIэр Налмэс.	Se sšer Nalmes.
+______ мыр?	______ mır?
+Cыдa ежь ыцIэр?	Sıda yej ıšer?
+Cыдa ежь ______?	Sıda yej ______?
+Cыдa сэ сцIэр?	Sıda se sšer?
+Сэ сцIэр Нарт.	Se sšer Nart.
+О пцIэр Налмэс.	We pšer Nalmes.
+О	We
+Сэ	Se
+ЦIэ	Še
+Цlэ	Še
+Ежь	Yej
+Мыр	Mır
+ежь	yej
+мыр	mır
+Цlэ?	Še?
+Мыр.	Mır.
+Мыр?	Mır?
+Пцlэ	Pše
+СцIэ	Sše
+цIэр	šer
+Хэтa	Xeta
+ЫцIэ	Iše
+хэтa	xeta
+Фэсапщи , Налмэс.	Fesapşi , Nalmes.
+Cыдa?	Sıda?
+Cыдa сэ______?	Sıda se______?
+Фэсапщи.	Fesapşi.
+Cыдa о пцIэр?	Sıda we pšer?
+О ______ Нарт.	We ______ Nart.
+Хэтa мыр?	Xeta mır?
+Ежь ыцIэр Нарт.	Yej ıšer Nart.
+Cыдa сэ цIэр?	Sıda se šer?
+ПцIэр	Pšer
+Хэтa?	Xeta?
+пцIэр	pšer
+сцIэр	sšer
+ыцIэр	ıšer
+Налмэс	Nalmes
+Ежь______ Налмэс.	Yej______ Nalmes.
+Cыдa пцIэр?	Sıda pšer?
+Фэсапщи , Нарт.	Fesapşi , Nart.
+______ Нарт.	______ Nart.
+Cыдa ______?	Sıda ______?
+О пцIэр Нарт.	We pšer Nart.
+Ежь ыцIэр Налмэс.	Yej ıšer Nalmes.
+______ , Налмэс.	______ , Nalmes.
+Сэ ______ Налмэс.	Se ______ Nalmes.
+Ежь иунэгъуацIэр Мышъэ.	Yej yiwneğuašer Mışe.
+Cыдa о ______?	Sıda we ______?
+Cыдa ежь иунэгъуацIэр?	Sıda yej yiwneğuašer?
+иунэгъуацIэр	yiwneğuašer
+Сэ ______ Хъун.	Se ______ Ḣun.
+Cыдa ежь ылъэкъуацIэр?	Sıda yej ıĺekuašer?
+О ______ Щэугэн.	We ______ Şewǵen.
+О______ Щэугэн.	We______ Şewǵen.
+____ уиунэгъуацIэр Щэугэн.	____ uiwneğuašer Şewǵen.
+____ иунэгъуацIэр Мышъэ.	____ yiwneğuašer Mışe.
+ЛъэкъуацIэ	Ĺekuaše
+Сэ слъэкъуацIэр Щэугэн.	Se sĺekuašer Şewǵen.
+ылъэкъуацIэр	ıĺekuašer
+Сэ слъэкъуацIэр  Щэугэн.	Se sĺekuašer  Şewǵen.
+ЫлъэкъуацIэ	Iĺekuaše
+ПлъэкъуацIэ	Pĺekuaše
+Cыдa ежь ______?	Sıda yej ______?
+О плъэкъуацIэр Щэугэн.	We pĺekuašer Şewǵen.
+УиунэгъуацIэ	Uiwneğuaše
+Cыдa ____ слъэкъуацIэр?	Sıda ____ sĺekuašer?
+Сэ сиунэгъуацIэр Хъун.	Se siwneğuašer Ḣun.
+Cыдa ____ уиунэгъуацIэр?	Sıda ____ uiwneğuašer?
+О	We
+о	we
+Сэ	Se
+сэ	se
+Cыд	Sıd
+Ежь	Yej
+ежь	yej
+____ сиунэгъуацIэр Хъун.	____ siwneğuašer Ḣun.
+Хъун	Ḣun
+Ежь ылъэкъуацIэр Щэугэн.	Yej ıĺekuašer Şewǵen.
+Cыдa ____ плъэкъуацIэр?	Sıda ____ pĺekuašer?
+Cыдa о уиунэгъуацIэр?	Sıda we uiwneğuašer?
+____ плъэкъуацIэр Щэугэн.	____ pĺekuašer Şewǵen.
+Cыдa сэ______?	Sıda se______?
+CиунэгъуацIэ	Siwneğuaše
+уиунэгъуацIэр	uiwneğuašer
+О плъэкъуацIэр  Мышъэ.	We pĺekuašer  Mışe.
+Cыдa  ____ иунэгъуацIэр?	Sıda  ____ yiwneğuašer?
+Ежь ______ Мышъэ.	Yej ______ Mışe.
+Ежь ылъэкъуацIэр Мышъэ.	Yej ıĺekuašer Mışe.
+сиунэгъуацIэр	siwneğuašer
+Cыдa ____ ылъэкъуацIэр?	Sıda ____ ıĺekuašer?
+CлъэкъуацIэ	Sĺekuaše
+Cыдa сэ ______?	Sıda se ______?
+Ежь ылъэкъуацIэр  Щэугэн.	Yej ıĺekuašer  Şewǵen.
+Унагъо	Wınağo
+Сэ слъэкъуацIэр Мышъэ.	Se sĺekuašer Mışe.
+____ слъэкъуацIэр Хъун.	____ sĺekuašer Ḣun.
+Cыдa сэ сиунэгъуацIэр?	Sıda se siwneğuašer?
+Cыдa сэ слъэкъуацIэр?	Sıda se sĺekuašer?
+О плъэкъуацIэр Хъун.	We pĺekuašer Ḣun.
+О уиунэгъуацIэр Щэугэн.	We uiwneğuašer Şewǵen.
+____ ылъэкъуацIэр Мышъэ.	____ ıĺekuašer Mışe.
+Ежь ылъэкъуацIэр Хъун.	Yej ıĺekuašer Ḣun.
+УнэгъуацIэ	Wıneğuaše
+Cыдa  ____ сиунэгъуацIэр?	Sıda  ____ siwneğuašer?
+плъэкъуацIэр	pĺekuašer
+Сэ слъэкъуацIэр Хъун.	Se sĺekuašer Ḣun.
+ИунэгъуацIэ	Yiwneğuaše
+Cыдa о плъэкъуацIэр?	Sıda we pĺekuašer?
+слъэкъуацIэр	sĺekuašer
+Къуаджэ	Kuace
+Пчэдыжь	Pçedıj
+Тыдэ ежь ущыщ?	Tıde yej wışış?
+О къуаджэу Кфар Камэм ущыщ.	We kuacew Ḱfar Ḱamem wışış.
+Сэ Рихьаныем  ______.	Se Rihanıyem  ______.
+Тыдэ сэ ущыщ?	Tıde se wışış?
+ШIукIэ.	Şü'ıće.
+Сэ къaлэу Мекъуапэ сыщэпcэy.	Se kalew Mékuape sışepsew.
+Тыдэ сэ  ______ ?	Tıde se  ______ ?
+О къaлэу Налчыкы ущэпcэy.	We kalew Nalçıḱı wışepsew.
+Тыдэ сэ сыщыпcэypа?	Tıde se sışıpsewra?
+Сэ къaлэу Рихьаныем сыщыщ.	Se kalew Rihanıyem sışış.
+Чэщ ______ къыокlу.	Çeş ______ kıwequ.
+Сэ къaлэу Кфар Камэм сыщэпcэy.	Se kalew Ḱfar Ḱamem sışepsew.
+Уипчыхьэ.	Uipçıhe.
+Уипчэдыжь	Uipçedıj
+______ шIу.	______ şü'ı.
+______ шlу.	______ şü'ı.
+Тыдэ о ущыпcэypа?	Tıde we wışıpsewra?
+Ежь Рихьаныем сыщыщ.	Yej Rihanıyem sışış.
+Уипчыхьэ ______.	Uipçıhe ______.
+Тыдэ сэ щыщ?	Tıde se şış?
+Уипчыхьэ шlу	Uipçıhe şü'ı
+Тыдэ ежь щыщ?	Tıde yej şış?
+Тыдэ о ______ ?	Tıde we ______ ?
+Тыдэ о щыщ?	Tıde we şış?
+О къуаджэу Кфар Камэм  ______.	We kuacew Ḱfar Ḱamem  ______.
+Уипчыхьэ шlу.	Uipçıhe şü'ı.
+Уимафэ шIу	Uimafe şü'ı
+Тыдэ ежь  ______ ?	Tıde yej  ______ ?
+Уипчэдыжь шlу.	Uipçedıj şü'ı.
+Уипчэдыжь.	Uipçedıj.
+ШIу	Şü'ı
+Шlу	Şü'ı
+Маф	Maf
+Чэщ	Çeş
+шlу	şü'ı
+маф	maf
+чэщ	çeş
+щыщ	şış
+Мафэ	Mafe
+Сыда	Sıda
+Тыд?	Tıd?
+Чэщ.	Çeş.
+ущыщ	wışış
+Ежь Рихьаныем ______.	Yej Rihanıyem ______.
+О Кфар Камэм ущыщ.	We Ḱfar Ḱamem wışış.
+Гупсэф.	Gupsef.
+Сэ Рихьаныем щыщ.	Se Rihanıyem şış.
+Чэщ гупсэф къыокlу.	Çeş gupsef kıwequ.
+ШIукIэ	Şü'ıće
+Сэ Рихьаныем сыщыщ.	Se Rihanıyem sışış.
+пчэдыжь	pçedıj
+Пчыхьэ шlу.	Pçıhe şü'ı.
+Ежь Рихьаныем щыщ.	Yej Rihanıyem şış.
+Гупсэф	Gupsef
+Гъогу.	Ğogu.
+Тыдэ сэ сыщыщ?	Tıde se sışış?
+Гъогу	Ğogu
+Къaлэ	Kale
+Сыда?	Sıda?
+Сыщыщ	Sışış
+Тыдэ?	Tıde?
+Хэта?	Xeta?
+гъогу	ğogu
+сыщыщ	sışış
+Тыдэ о ущыщ?	Tıde we wışış?
+Пчыхьэ	Pçıhe
+Сэ къуаджэу Рихьаныем сыщыщ.	Se kuacew Rihanıyem sışış.
+Уимафэ	Uimafe
+Гъогу маф.	Ğogu maf.
+шIукIэ	şü'ıće
+Уимафэ шIу.	Uimafe şü'ı.
+Гъогу ______.	Ğogu ______.
+Уипчыхьэ	Uipçıhe
+Сэ къуаджэу Рихьаныем  ______.	Se kuacew Rihanıyem  ______.
+гупсэф	gupsef
+Тыдэ ежь щыпcэypа?	Tıde yej şıpsewra?
+Гъогу маф	Ğogu maf
+сыдэса	sıdesa
+удэсэп	wıdesep
+Тыдэ ежь _____ ?	Tıde yej _____ ?
+Ежь Налчыкы дэсаэп?	Yej Nalçıḱı desaep?
+Ары, сэ Чэркескы сыдэса.	Arı, se Çerḱésḱı sıdesa.
+Тыдэ о удэса?	Tıde we wıdesa?
+Къуаджэ	Kuace
+О Чэркескы _____ ?	We Çerḱésḱı _____ ?
+_____, сэ Чэркескы сыдэс.	_____, se Çerḱésḱı sıdes.
+Тыдэ ежь дэса?	Tıde yej desa?
+Тыдэ сэ ущыщ?	Tıde se wışış?
+сыдэсэп	sıdesep
+Сэ Мыекъуапэ сыдэс.	Se Mıyekuape sıdes.
+Сэ Мыекъуапэ сыдэс?	Se Mıyekuape sıdes?
+Хьау, сэ Чэркескы сыдэса.	Haw, se Çerḱésḱı sıdesa.
+Тыдэ сэ сыдэса?	Tıde se sıdesa?
+Сэ къaлэу Мекъуапэ сыщэпcэy.	Se kalew Mékuape sışepsew.
+_____, ежь Налчыкы дэс.	_____, yej Nalçıḱı des.
+Ежь Налчыкы дэса.	Yej Nalçıḱı desa.
+Ежь Налчыкы дэса?	Yej Nalçıḱı desa?
+Тыдэ ежь дэсэп?	Tıde yej desep?
+Ары, о Мыекъуапэ удэса.	Arı, we Mıyekuape wıdesa.
+О Чэркескы удэс.	We Çerḱésḱı wıdes.
+О Чэркескы удэс?	We Çerḱésḱı wıdes?
+Тыдэ ___  ущыпcэypа?	Tıde ___  wışıpsewra?
+Сэ Мекъуапэ сыщэпcэy.	Se Mékuape sışepsew.
+Ары, ежь Налчыкы _____.	Arı, yej Nalçıḱı _____.
+Хьау, о Мыекъуапэ удэса.	Haw, we Mıyekuape wıdesa.
+О къaлэу Налчыкы ущэпcэy.	We kalew Nalçıḱı wışepsew.
+Тыдэ сэ сыщыпcэypа?	Tıde se sışıpsewra?
+Хьау, ежь Налчыкы _____.	Haw, yej Nalçıḱı _____.
+Ары, ежь Налчыкы дэс.	Arı, yej Nalçıḱı des.
+Сэ Мыекъуапэ _____.	Se Mıyekuape _____.
+___ къaлэу Мекъуапэ сыщэпcэy.	___ kalew Mékuape sışepsew.
+Сэ Мыекъуапэ сыдэса.	Se Mıyekuape sıdesa.
+Сэ Мыекъуапэ сыдэса?	Se Mıyekuape sıdesa?
+Тыдэ о ущыпcэypа?	Tıde we wışıpsewra?
+Ары, о Мыекъуапэ _____.	Arı, we Mıyekuape _____.
+Хьау, о Мыекъуапэ _____.	Haw, we Mıyekuape _____.
+Тыдэ ежь дэс?	Tıde yej des?
+Тыдэ о _____ ?	Tıde we _____ ?
+Тыдэ о дэс?	Tıde we des?
+_____, сэ Чэркескы сыдэсэп.	_____, se Çerḱésḱı sıdesep.
+Ежь къaлэу Чэркескы щэпcэy.	Yej kalew Çerḱésḱı şepsew.
+_____, ежь Налчыкы дэсэп.	_____, yej Nalçıḱı desep.
+Сэ Мыекъуапэ сыдэсэп.	Se Mıyekuape sıdesep.
+Сэ Мыекъуапэ сыдэсэп?	Se Mıyekuape sıdesep?
+Ежь Налчыкы  _____ ?	Yej Nalçıḱı  _____ ?
+Хьау, сэ Чэркескы сыдэсэп.	Haw, se Çerḱésḱı sıdesep.
+Ежь къaлэу Чэркескы ущэпcэy.	Yej kalew Çerḱésḱı wışepsew.
+О	We
+о	we
+Сэ	Se
+сэ	se
+Ары	Arı
+Дэс	Des
+Ежь	Yej
+дэс	des
+ежь	yej
+Тыдэ	Tıde
+Удэс	Wıdes
+Хьау	Haw
+дэса	desa
+удэс	wıdes
+О къaлэу Мекъуапэ ущэпcэy.	We kalew Mékuape wışepsew.
+Тыдэ сэ сыдэсэп?	Tıde se sıdesep?
+Ары, сэ Чэркескы сыдэс.	Arı, se Çerḱésḱı sıdes.
+Тыдэ ___ сыщыпcэypа?	Tıde ___ sışıpsewra?
+Хьау, ежь Налчыкы дэсэ.	Haw, yej Nalçıḱı dese.
+Хьау, сэ Чэркескы сыдэс.	Haw, se Çerḱésḱı sıdes.
+О Чэркескы удэсэп.	We Çerḱésḱı wıdesep.
+О Чэркескы удэсэп?	We Çerḱésḱı wıdesep?
+Тыдэ о сыщыпcэypа?	Tıde we sışıpsewra?
+Ежь Налчыкы дэсэп.	Yej Nalçıḱı desep.
+Ежь Налчыкы дэс.	Yej Nalçıḱı des.
+Ежь Налчыкы дэс?	Yej Nalçıḱı des?
+Ары, о Мыекъуапэ удэс.	Arı, we Mıyekuape wıdes.
+Хьау, о Мыекъуапэ удэс.	Haw, we Mıyekuape wıdes.
+___ къaлэу Чэркескы щэпcэy.	___ kalew Çerḱésḱı şepsew.
+Ары, сэ Чэркескы _____.	Arı, se Çerḱésḱı _____.
+Тыдэ сэ сыдэс?	Tıde se sıdes?
+Сэ къaлэу  Чэркескыэ сыщэпcэy.	Se kalew  Çerḱésḱıe sışepsew.
+Къaлэ	Kale
+Сыдэс	Sıdes
+Хьау, сэ Чэркескы _____.	Haw, se Çerḱésḱı _____.
+дэсэп	desep
+сыдэс	sıdes
+удэса	wıdesa
+О къaлэу Чэркескы ущэпcэy.	We kalew Çerḱésḱı wışepsew.
+Тыдэ о удэс?	Tıde we wıdes?
+Тыдэ о ущыщ?	Tıde we wışış?
+Удэсэп	Wıdesep
+Тыдэ сэ _____ ?	Tıde se _____ ?
+Ары, о Мыекъуапэ удэсэп.	Arı, we Mıyekuape wıdesep.
+Хьау, ежь Налчыкы дэс.	Haw, yej Nalçıḱı des.
+О Чэркескы удэса.	We Çerḱésḱı wıdesa.
+О Чэркескы удэса?	We Çerḱésḱı wıdesa?
+_____, о Мыекъуапэ удэс.	_____, we Mıyekuape wıdes.
+Ежь Налчыкы _____.	Yej Nalçıḱı _____.
+Ежь Чэркескы щэпcэy.	Yej Çerḱésḱı şepsew.
+Хьау, о Мыекъуапэ удэсэп.	Haw, we Mıyekuape wıdesep.
+Ары, сэ Чэркескы сыдэсэп.	Arı, se Çerḱésḱı sıdesep.
+Тыдэ ежь щыпcэypа?	Tıde yej şıpsewra?
+Тыдэ ___ щыпcэypа?	Tıde ___ şıpsewra?
+_____, о Мыекъуапэ удэсэп.	_____, we Mıyekuape wıdesep.
+Ары, ежь Налчыкы дэсэп.	Arı, yej Nalçıḱı desep.
+___ къaлэу Налчыкы ущэпcэy.	___ kalew Nalçıḱı wışepsew.
+Сэ Мыекъуапэ _____ ?	Se Mıyekuape _____ ?
+О Чэркескы _____.	We Çerḱésḱı _____.
+Хьау, ежь Налчыкы дэсэп.	Haw, yej Nalçıḱı desep.
+l	l
+А	A
+Е	Ye
+И	Yi
+К	Ḱ
+М	M
+О	We
+С	S
+Т	T
+У	U
+Ы	I
+Э	E
+ы	ı
+lэ	e
+Кl	Ć
+Ае	Aye
+Ао	Awe
+Ас	As
+Ат	At
+Ау	Aw
+Ем	Yem
+Ео	Yeo
+Ес	Yes
+Ет	Yet
+Еу	Yew
+Ио	Yiwe
+Ис	Yis
+Иэ	Yie
+Ко	Ḱo
+Ку	Ḱu
+Ма	Ma
+Ме	Mé
+Ми	Mi
+Мо	Mo
+Мс	Ms
+Му	Mu'
+Мы	Mı
+Мэ	Me
+Ос	Wes
+Оу	Weu'
+Оэ	Wee
+Са	Sa
+Се	Sé
+Си	Si
+Со	So
+Су	Su'
+Сы	Sı
+Сэ	Se
+Те	Té
+Уэ	We
+Шы	Şı
+Щэ	Şe
+Ыс	Is
+Ыэ	Ie
+Эс	Es
+Аса	Asa
+АӀо	AӀo
+Есы	Yesı
+Иса	Yisa
+Исы	Yisı
+Мые	Mıye
+Мыи	Mıyı
+Мэе	Meye
+Мэо	Mewe
+Мэс	Mes
+Мэу	Mew
+Осы	Wesı
+Оуи	Weui
+Оуэ	Wewe
+Сам	Sam
+Сас	Sas
+Сие	Sié
+Сим	Sim
+Сис	Sis
+Сыд	Sıd
+Сыс	Sıs
+Тат	Tat
+Тео	Tyewe
+Тет	Tét
+ТиӀ	Tyiı'
+Тэт	Tet
+Уае	Wıaye
+Уаи	Wıay
+Уас	Wıas
+Уау	Wıaw
+Уаы	Wıaı
+Уес	Ués
+Уис	Uis
+Унэ	Wıne
+Усэ	Wıse
+Уым	Wıım
+Уэс	Wes
+Ыса	Isa
+Ысы	Isı
+lанэ	ane
+Еджэ	Yece
+Иэуэ	Yiewe
+Коцы	Ḱośı
+Мамэ	Mame
+Масы	Ması
+Месы	Mésı
+Мысэ	Mıse
+Мэсы	Mesı
+Окуо	Weḱuo
+Оуои	Weuoi
+Санэ	Sane
+Сасэ	Sase
+Сесы	Sésı
+Симы	Simı
+Симэ	Sime
+Сэса	Sesa
+Тамэ	Tame
+Тати	Tati
+Тэку	Teḱu
+Тэти	Teti
+Уасэ	Wıase
+Уемэ	Uéme
+Уысэ	Wııse
+Уэсэ	Wese
+Уэуи	Weui
+Аслъан	Asĺan
+Тыгъужъ	Tığuj
+Иныжъ	Yinıj
+Коамэ	Ḱoame
+Куамэ	Ḱoáme
+Мышъэ	Mışe
+Мэкуо	Meḱuo
+Тэкуо	Teḱuo
+ТыӀут	TıUt
+Уэкуо	Weḱuo
+l	l
+А	A
+Е	Ye
+И	Yi
+К	Ḱ
+М	M
+О	We
+С	S
+Т	T
+У	U
+Ы	I
+Э	E
+ы	ı
+lэ	e
+Кl	Ć
+Ае	Aye
+Ао	Awe
+Ас	As
+Ат	At
+Ау	Aw
+Ем	Yem
+Ео	Yeo
+Ес	Yes
+Ет	Yet
+Еу	Yew
+Ио	Yiwe
+Ис	Yis
+Иэ	Yie
+Ко	Ḱo
+Ку	Ḱu
+Ма	Ma
+Ме	Mé
+Ми	Mi
+Мо	Mo
+Мс	Ms
+Му	Mu'
+Мы	Mı
+Мэ	Me
+Ос	Wes
+Оу	Weu'
+Оэ	Wee
+Са	Sa
+Се	Sé
+Си	Si
+Со	So
+Су	Su'
+Сы	Sı
+Сэ	Se
+Те	Té
+Уэ	We
+Шы	Şı
+Щэ	Şe
+Ыс	Is
+Ыэ	Ie
+Эс	Es
+Аса	Asa
+АӀо	AӀo
+Есы	Yesı
+Иса	Yisa
+Исы	Yisı
+Мые	Mıye
+Мыи	Mıyı
+Мэе	Meye
+Мэо	Mewe
+Мэс	Mes
+Мэу	Mew
+Осы	Wesı
+Оуи	Weui
+Оуэ	Wewe
+Сам	Sam
+Сас	Sas
+Сие	Sié
+Сим	Sim
+Сис	Sis
+Сыд	Sıd
+Сыс	Sıs
+Тат	Tat
+Тео	Tyewe
+Тет	Tét
+ТиӀ	Tyiı'
+Тэт	Tet
+Уае	Wıaye
+Уаи	Wıay
+Уас	Wıas
+Уау	Wıaw
+Уаы	Wıaı
+Уес	Ués
+Уис	Uis
+Унэ	Wıne
+Усэ	Wıse
+Уым	Wıım
+Уэс	Wes
+Ыса	Isa
+Ысы	Isı
+lанэ	ane
+Еджэ	Yece
+Иэуэ	Yiewe
+Коцы	Ḱośı
+Мамэ	Mame
+Масы	Ması
+Месы	Mésı
+Мысэ	Mıse
+Мэсы	Mesı
+Окуо	Weḱuo
+Оуои	Weuoi
+Санэ	Sane
+Сасэ	Sase
+Сесы	Sésı
+Симы	Simı
+Симэ	Sime
+Сэса	Sesa
+Тамэ	Tame
+Тати	Tati
+Тэку	Teḱu
+Тэти	Teti
+Уасэ	Wıase
+Уемэ	Uéme
+Уысэ	Wııse
+Уэсэ	Wese
+Уэуи	Weui
+Аслъан	Asĺan
+Тыгъужъ	Tığuj
+Иныжъ	Yinıj
+Коамэ	Ḱoame
+Куамэ	Ḱoáme
+Мышъэ	Mışe
+Мэкуо	Meḱuo
+Тэкуо	Teḱuo
+ТыӀут	TıUt
+Уэкуо	Weḱuo

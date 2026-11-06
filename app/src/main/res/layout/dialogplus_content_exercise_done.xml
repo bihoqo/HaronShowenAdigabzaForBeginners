@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+    android:background="@drawable/background_dialogplus_exercise_done"
+    android:outlineProvider="background">
+
+    <!--    android:textSize="@dimen/dialogplus_text_size5"-->
+    <!--    android:textSize="@dimen/dialogplus_text_size4"-->
+    <!--    android:textSize="@dimen/dialogplus_text_size4"-->
+    <!--    android:textSize="@dimen/dialogplus_text_size4"-->
+    <!--    android:textSize="@dimen/dialogplus_text_size4"-->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingVertical="16dp"
+        android:text="@string/good_job1"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="@dimen/dialogplus_text_size5"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="8dp"
+        android:text="@string/good_job2"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="@dimen/dialogplus_text_size6"
+        android:textColor="@color/black"/>
+
+    <ImageView
+        android:layout_width="@dimen/dialogplus_image_size1"
+        android:layout_height="@dimen/dialogplus_image_size1"
+        android:layout_weight="1"
+        android:background="@drawable/well_done1_transparent_230x245"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_exercise_done_footer_buttonOk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:layout_weight="1"
+        android:layout_marginBottom="16dp"
+        android:text="@string/ok"
+        android:enabled="true"
+        android:textAllCaps="false"
+        android:layout_gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size4"
+        android:textColor="@color/black"
+        android:background="@drawable/background_select_dialogplus_language"
+        android:outlineProvider="background"/>
+</LinearLayout>

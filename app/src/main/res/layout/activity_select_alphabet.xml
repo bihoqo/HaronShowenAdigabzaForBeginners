@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/constraintLayoutSelectAlphabet"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    android:background="@drawable/bg1_language"
+    tools:context=".activities.SelectAlphabetActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:text="@string/select_alphabet_title"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/activity_select_language_text_size_title"
+        android:textColor="#3C3C3B"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/guidelineTop"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonAlphabetCyrillic"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_select_language_button_height2"
+        android:layout_marginHorizontal="50dp"
+        android:textAllCaps="false"
+        android:text="@string/alphabet_cyrillic"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/activity_select_language_text_size_button"
+        android:textColor="@color/black"
+        android:background="@drawable/background_option_language"
+        android:outlineProvider="background"
+        android:onClick="buttonAlphabetClicked"
+        app:layout_constraintTop_toBottomOf="@+id/guidelineTop"
+        app:layout_constraintBottom_toTopOf="@id/guidelineMiddle"/>
+
+<!--    // a á b c ç ć d e é f g ǵ ğ h ḣ ı i j k ḱ l ĺ m n o ö p ṕ q r s ş ś š t ṫ u ü w x y z ź-->
+<!--    // A Á B C Ç Ć D E É F G Ǵ Ğ H Ḣ I İ J K Ḱ L Ĺ M N O Ö P Ṕ Q R S Ş Ś Š T Ṫ U Ü W X Y Z Ź-->
+<!--    // áçćéǵğḣıḱĺöṕşśšṫüź-->
+<!--    // ÁÇĆÉǴĞḢİḰĹÖṔŞŚŠṪÜŹ-->
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonAlphabetLatin"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_select_language_button_height2"
+        android:layout_marginHorizontal="50dp"
+        android:textAllCaps="false"
+        android:text="@string/alphabet_latin"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/activity_select_language_text_size_button"
+        android:textColor="@color/black"
+        android:background="@drawable/background_option_language"
+        android:outlineProvider="background"
+        android:onClick="buttonAlphabetClicked"
+        app:layout_constraintBottom_toTopOf="@+id/guidelineBottom"
+        app:layout_constraintTop_toBottomOf="@id/guidelineMiddle"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonSelect"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/activity_select_language_button_height2"
+        android:paddingHorizontal="40dp"
+        android:text="@string/button_select"
+        android:enabled="false"
+        android:textAllCaps="false"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/activity_select_language_text_size_title"
+        android:textColor="@color/white"
+        android:background="@drawable/background_select_language"
+        android:outlineProvider="background"
+        android:onClick="buttonSelectClicked"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/guidelineBottom"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guidelineTop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0.35"
+        android:orientation="horizontal" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guidelineMiddle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0.5"
+        android:orientation="horizontal" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guidelineBottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0.65"
+        android:orientation="horizontal" />
+</androidx.constraintlayout.widget.ConstraintLayout>

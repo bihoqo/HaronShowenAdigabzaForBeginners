@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layoutDirection="ltr"
+    android:background="@drawable/background_dialogplus_flowers_footer_bg">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_footer_buttonYes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginStart="100dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/button_yes"
+        android:textAllCaps="false"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size4"
+        android:textColor="@color/white"
+        android:background="@drawable/background_yes_dialogplus_flowers"
+        android:outlineProvider="background"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialogplus_footer_buttonNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginEnd="100dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/button_no"
+        android:textAllCaps="false"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textSize="@dimen/dialogplus_text_size4"
+        android:textColor="@color/white"
+        android:background="@drawable/background_no_dialogplus_flowers"
+        android:outlineProvider="background"/>
+</LinearLayout>

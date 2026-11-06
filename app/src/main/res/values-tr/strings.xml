@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_lesson_w_num">Ders %d</string>
+    <string name="button_lesson">Ders</string>
+    <string name="button_lesson_1">Lesson 1</string>
+    <string name="button_lesson_2">Lesson 2</string>
+    <string name="button_stage">Safha %d</string>
+    <string name="button_stage_1">Stage 1</string>
+    <string name="button_stage_2">Stage 2</string>
+    <string name="lesson_title_what_is_this">Bu nedir?</string>
+    <string name="lesson_title_what_you_hear">Duyduğunuza tıklayın</string>
+    <string name="lesson_title_select_translation">Doğru çeviriyi seçin</string>
+    <string name="lesson_title_missing_word">Eksik kelimeyi seçin</string>
+    <string name="lesson_title_missing_letter">Eksik harfi seçin</string>
+    <string name="lesson_title_matching_pairs">EŞleşen çiftlere dokunun</string>
+    <string name="button_select">Seç</string>
+    <string name="button_cancel">İptal</string>
+    <string name="button_choose_language">T</string>
+    <string name="select_alphabet_title">Lütfen tercih ettiğiniz\nalfabeyi seçin</string>
+    <string name="main_title">Adıǵabze</string>
+    <string name="alphabet_label_cyrillic">Kiril</string>
+    <string name="alphabet_label_latin">Latin</string>
+    <string name="alphabet_cyrillic">Kiril</string>
+    <string name="alphabet_latin">Latin</string>
+    <string name="select_language_title">Lütfen tercih ettiğiniz\ndili seçin</string>
+    <string name="dialog_flowers_title">&lt;font color="red"&gt;%1$d&lt;/font&gt; çiçeğin var</string>
+    <string name="dialog_flowers_title_one">&lt;font color="red"&gt;1&lt;/font&gt; çiçeğin var</string>
+    <string name="dialog_flowers_content1">Daha fazla toplamak ister misin?</string>
+    <string name="dialog_flowers_content2">Daha fazla çiçek toplayamazsın. Hala egzersizi yapmak istiyor musun?</string>
+    <string name="dialog_exit_lesson_title">Çıkmak istediğinden emin misin?</string>
+    <string name="dialog_exit_lesson_content">Bu alıştırmadaki tüm ilerlemeler kaybolacak!</string>
+    <string name="button_yes">ُEvet</string>
+    <string name="button_no">Hayır</string>
+<!--    <string name="language_english">English</string>-->
+<!--    <string name="language_arabic">العربية</string>-->
+<!--    <string name="language_turkish">Türkçe</string>-->
+    <string name="next">Sonraki</string>
+    <string name="continue_selecting">Devan etmek</string>
+    <string name="answer">"Cevap: "</string>
+    <string name="lesson_correct_answer">"Kusursuz!"</string>
+    <string name="lesson_wrong_answer">"Belki başka zaman\nCevap şuydu: "</string>
+    <string name="ok">Tamam</string>
+    <string name="good_job1">Aferin!</string>
+    <string name="good_job2">Alıştırmayı başarıyla tamamladın!</string>
+    <string name="good_job3">Dersi başarıyla tamamladın!</string>
+
+    <!--    menu-->
+    <string name="menu_about">Hakkında</string>
+    <string name="menu_language">Dil</string>
+    <string name="menu_alphabet">Alfabe</string>
+</resources>
+<!--    // áçćéǵğḣıḱĺöṕşśšṫüź-->
+<!--    // ÁÇĆÉǴĞḢİḰĹÖṔŞŚŠṪÜŹ-->
